@@ -1,12 +1,13 @@
 # Meetup
 Shinykorea Meetup 
 
-
 ## 1회
 
 * 일시 - 2019년 1월 24일(목), 19시-21시 30분 
 
 * 장소 - 강남 토즈타워점 
+
+* 후원 - [Anpanman](https://www.anpanman.co.kr/)  
 
 * 참석자 - 강동훈, 김진섭, 나영준, 이상열
 
