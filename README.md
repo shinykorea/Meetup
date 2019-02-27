@@ -1,6 +1,22 @@
 # Meetup
 Shinykorea Meetup 
 
+## 3회
+ * 일시 - 2019년 2월 27일(수), 19시-21시 00분 
+
+* 장소 - 미정 
+
+* 후원 - [Anpanman](https://www.anpanman.co.kr/)  
+
+* 참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재
+
+* 발표 내용 
+    + 강동훈: 
+    
+    
+    + 이상열: 
+
+
 ## 2회
  * 일시 - 2019년 2월 27일(수), 19시-21시 30분 
 
@@ -14,7 +30,10 @@ Shinykorea Meetup
     + 김진섭: [From shinyapps to Rpackage](https://jinseob2kim.github.io/LectureRpackage/)
     
     
-    + 이희재: 
+    + 이희재: Shiny Dashbooard 활용 예
+
+다음 모임은 **3월 27일(수), 19-21시** 에 열릴 예정이며 강동훈, 이상열님이 발표 예정입니다. 모임 회비는 **15,000**원 입니다.       
+
 
 ## 1회
 
