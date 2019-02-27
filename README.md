@@ -2,9 +2,9 @@
 Shinykorea Meetup 
 
 ## 3회
- * 일시 - 2019년 2월 27일(수), 19시-21시 00분 
+ * 일시 - 2019년 3월 27일(수), 19시-21시 00분 
 
-* 장소 - 미정 
+* 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
 
 * 후원 - [Anpanman](https://www.anpanman.co.kr/)  
 
@@ -14,7 +14,7 @@ Shinykorea Meetup
     + [강동훈](https://github.com/DonghoonGang): 
     
     
-    + [이상열](https://github.com/syleeie2310): 
+    + [이상열](https://github.com/syleeie2310): Shiny app 에서 Python 모듈 사용기 (+Reticulate)
 
 
 ## 2회
@@ -52,7 +52,7 @@ Shinykorea Meetup
     + [강동훈](https://github.com/DonghoonGang): [해상사고 조난자 수색구조를 위한 표류지점 예측 분석](http://marine.mt.co.kr/articleView.html?no=2018091010384484849&sec=experience)
     
     
-    + [이상열](https://github.com/syleeie2310): Shiny for game data
+    + [이상열](https://github.com/syleeie2310): Shiny에서 rhandsontable 사용하기
     
     
 다음 모임은 **2월 27일(수), 19-21시** 에 열릴 예정이며 [김진섭](https://github.com/jinseob2kim), [이희재](https://github.com/Poohj)님이 발표 예정입니다. 모임 회비는 **15,000**원으로 결정하였습니다.       
