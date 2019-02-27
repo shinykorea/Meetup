@@ -8,13 +8,13 @@ Shinykorea Meetup
 
 * 후원 - [Anpanman](https://www.anpanman.co.kr/)  
 
-* 참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [이희재](https://github.com/Poohj)
 
 * 발표 내용 
-    + 강동훈: 
+    + [강동훈](https://github.com/DonghoonGang): 
     
     
-    + 이상열: 
+    + [이상열](https://github.com/syleeie2310): 
 
 
 ## 2회
@@ -24,15 +24,15 @@ Shinykorea Meetup
 
 * 후원 - [Anpanman](https://www.anpanman.co.kr/)  
 
-* 참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [이희재](https://github.com/Poohj)
 
 * 발표 내용 
-    + 김진섭: [From shinyapps to Rpackage](https://jinseob2kim.github.io/LectureRpackage/)
+    + [김진섭](https://github.com/jinseob2kim): [From shinyapps to Rpackage](https://jinseob2kim.github.io/LectureRpackage/)
     
     
-    + 이희재: Shiny Dashbooard 활용 예
+    + [이희재](https://github.com/Poohj): Shiny Dashbooard 활용 예
 
-다음 모임은 **3월 27일(수), 19-21시** 에 열릴 예정이며 강동훈, 이상열님이 발표 예정입니다. 모임 회비는 **15,000**원 입니다.       
+다음 모임은 **3월 27일(수), 19-21시** 에 열릴 예정이며 [강동훈](https://github.com/DonghoonGang), [이상열](https://github.com/syleeie2310)님이 발표 예정입니다. 모임 회비는 **15,000**원 입니다.       
 
 
 ## 1회
@@ -43,17 +43,17 @@ Shinykorea Meetup
 
 * 후원 - [Anpanman](https://www.anpanman.co.kr/)  
 
-* 참석자 - 강동훈, 김진섭, 나영준, 이상열
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310)
 
 * 발표 내용 
-    + 나영준: [Shiny for animal science](https://github.com/YoungjunNa/2019Shiny_meetup)
+    + [나영준](https://github.com/YoungjunNa): [Shiny for animal science](https://github.com/YoungjunNa/2019Shiny_meetup)
     
     
-    + 강동훈: [해상사고 조난자 수색구조를 위한 표류지점 예측 분석](http://marine.mt.co.kr/articleView.html?no=2018091010384484849&sec=experience)
+    + [강동훈](https://github.com/DonghoonGang): [해상사고 조난자 수색구조를 위한 표류지점 예측 분석](http://marine.mt.co.kr/articleView.html?no=2018091010384484849&sec=experience)
     
     
-    + 이상열: Shiny for game data
+    + [이상열](https://github.com/syleeie2310): Shiny for game data
     
     
-다음 모임은 **2월 27일(수), 19-21시** 에 열릴 예정이며 김진섭, 이희재님이 발표 예정입니다. 모임 회비는 **15,000**원으로 결정하였습니다.       
+다음 모임은 **2월 27일(수), 19-21시** 에 열릴 예정이며 [김진섭](https://github.com/jinseob2kim), [이희재](https://github.com/Poohj)님이 발표 예정입니다. 모임 회비는 **15,000**원으로 결정하였습니다.       
 
