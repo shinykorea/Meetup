@@ -6,7 +6,7 @@ Shinykorea Meetup
 
 * 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
 
-* 후원 - [Anpanman](https://www.anpanman.co.kr/)  
+* 후원 - [차라투(주)](https://www.zarathu.com/)  
 
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [이희재](https://github.com/Poohj)
 
