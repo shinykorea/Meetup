@@ -14,7 +14,7 @@ Shinykorea Meetup
     + [강동훈](https://github.com/DonghoonGang): 
     
     
-    + [이상열](https://github.com/syleeie2310): Shiny app 에서 Python 모듈 사용기 (+Reticulate)
+    + [이상열](https://github.com/syleeie2310): Shiny + Reticulate + Pyspark 소개 [Shiny + Reticulate + Pyspark 소개](https://github.com/shinykorea/Meetup/blob/master/20190327/Shiny%20%2B%20Reticulate%20%2B%20Pyspark%20%EC%86%8C%EA%B0%9C.pdf)
 
 
 ## 2회
