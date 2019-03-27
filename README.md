@@ -11,7 +11,7 @@ Shinykorea Meetup
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), 신현석
 
 * 발표 내용 
-    + [강동훈](https://github.com/DonghoonGang): 
+    + [강동훈](https://github.com/DonghoonGang): api in R - plumber 소개
     
     
     + [이상열](https://github.com/syleeie2310): [Shiny + Reticulate + Pyspark 소개](https://github.com/shinykorea/Meetup/blob/master/20190327/Shiny%20%2B%20Reticulate%20%2B%20Pyspark%20%EC%86%8C%EA%B0%9C.pdf)
