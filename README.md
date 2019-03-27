@@ -1,6 +1,18 @@
 # Meetup
 Shinykorea Meetup 
 
+## 4회 (예정)
+ * 일시 - 2019년 4월 30일(화), 19시-21시 00분 
+
+* 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/)  
+
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이희재](https://github.com/Poohj), [이상열](https://github.com/syleeie2310), 신현석
+
+* 발표 내용 
+    + 신현석: 
+
 ## 3회
  * 일시 - 2019년 3월 27일(수), 19시-21시 00분 
 
