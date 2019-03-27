@@ -16,6 +16,7 @@ Shinykorea Meetup
     
     + [이상열](https://github.com/syleeie2310): [Shiny + Reticulate + Pyspark 소개](https://github.com/shinykorea/Meetup/blob/master/20190327/Shiny%20%2B%20Reticulate%20%2B%20Pyspark%20%EC%86%8C%EA%B0%9C.pdf)
 
+다음 모임은 4월 30일(화), 19-21시 에 열릴 예정이며 신현석님이 발표 예정입니다. 모임 회비는 15,000원 입니다.
 
 ## 2회
  * 일시 - 2019년 2월 27일(수), 19시-21시 30분 
