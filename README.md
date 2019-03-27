@@ -8,7 +8,7 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/)  
 
-* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [이희재](https://github.com/Poohj)
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), 신현석
 
 * 발표 내용 
     + [강동훈](https://github.com/DonghoonGang): 
