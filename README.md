@@ -14,7 +14,7 @@ Shinykorea Meetup
     + 신현석: 
     + [1st Shiny contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/) 관심 앱 소개 
  
- | 이름                                     | 발표 앱                                                                                                                                                                                                                                     |
+ | 이름                                     | 소개할 앱                                                                                                                                                                                                                                     |
 |------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [김진섭](https://github.com/jinseob2kim) | [Impact Replays - Relive the CFL (Canadian Football League) Highlights and Play-by-Play](https://community.rstudio.com/t/shiny-contest-submission-impact-replays-relive-the-cfl-canadian-football-league-highlights-and-play-by-play/24001) |
 |                                          |                                                                                                                                                                                                                                             |
