@@ -12,6 +12,9 @@ Shinykorea Meetup
 
 * 발표 내용 
     + 신현석: 
+    + [1st Shiny contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/) 수상 앱 리뷰 
+        + 
+    
 
 ## 3회
  * 일시 - 2019년 3월 27일(수), 19시-21시 00분 
