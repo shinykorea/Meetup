@@ -10,7 +10,10 @@ Shinykorea Meetup
 
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이희재](https://github.com/Poohj), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign)
 
-* 발표 내용 
+* 발표 내용
+    + [김진섭](https://github.com/jinseob2kim): Shiny 활용 의학연구지원 경험 공유
+    + [강동훈](https://github.com/DonghoonGang):
+    + [나영준](https://github.com/YoungjunNa):
    
 회비는 15,000원입니다.
 
