@@ -28,9 +28,10 @@ Shinykorea Meetup
 
 * 발표 내용
     + [김진섭](https://github.com/jinseob2kim): [Shiny 활용 의학연구지원 경험 공유](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/)
-    + [강동훈](https://github.com/DonghoonGang):
+    + [강동훈](https://github.com/DonghoonGang): [재무정보 시각화](https://github.com/shinykorea/shiny_financial_dashboard)
     + [나영준](https://github.com/YoungjunNa): [Shiny app - 새로운 한우 육량등급 시뮬레이터](https://github.com/adatalab/windex-simulator-hanwoo)
-   
+    + 조재형: [AEGIS: OHDSI 기반 공간역학연구 시각화](https://github.com/OHDSI/Aegis)
+    
 회비는 15,000원입니다.
 
 ## 4회 
