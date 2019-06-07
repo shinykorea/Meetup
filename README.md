@@ -14,8 +14,7 @@ Shinykorea Meetup
 
 * 발표 내용
     + [탁온식](https://github.com/takos1026): 
-    + 이창선:
-    
+    + 이창선:제조업의 4차산업화(AI 대중화)
     
     
    
