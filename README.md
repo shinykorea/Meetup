@@ -13,7 +13,7 @@ Shinykorea Meetup
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이희재](https://github.com/Poohj), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign), 이창선
 
 * 발표 내용
-    + [탁온식](https://github.com/takos1026): 
+    + [탁온식](https://github.com/takos1026): [더 나은 주거지역을 찾기 위한 shiny 앱](https://github.com/takos1026/shiny_meetup_201906/tree/master/search_new_site)
     + 이창선:제조업의 4차산업화(AI 대중화)
     
     
