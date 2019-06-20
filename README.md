@@ -1,6 +1,7 @@
 # Meetup
 Shinykorea Meetup 
 
+
 ## 7회 (예정)
  * 일시 - 2019년 7월 25일(목), 19시-21시 00분 
 
