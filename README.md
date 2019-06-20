@@ -29,7 +29,7 @@ Shinykorea Meetup
 
 * 발표 내용
     + [탁온식](https://github.com/takos1026): [더 나은 주거지역을 찾기 위한 shiny 앱](https://github.com/takos1026/shiny_meetup_201906/tree/master/search_new_site)
-    + 이창선:제조업의 4차산업화(AI 대중화)
+    + [이창선](https://github.com/csleekorea): AI auto-reporting(https://github.com/csleekorea/AI-AutoReporting)
     
     
    
