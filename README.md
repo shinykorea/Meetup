@@ -13,6 +13,8 @@ Shinykorea Meetup
 
 * 발표 내용
     + [이희재](https://github.com/Poohj)
+     
+    + [김병건](https://github.com/skysign)
     
     
 회비는 15,000원입니다.
