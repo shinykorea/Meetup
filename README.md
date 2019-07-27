@@ -14,7 +14,7 @@ Shinykorea Meetup
 * 발표 내용
     + [이희재](https://github.com/Poohj)
      
-    + [김병건](https://github.com/skysign): [요즘은 데이터 분석 공부를 어떻게 시작하시나요?]
+    + [김병건](https://github.com/skysign): [요즘은 데이터 분석 공부를 어떻게 시작하시나요?]()
     
     
 회비는 15,000원입니다.
