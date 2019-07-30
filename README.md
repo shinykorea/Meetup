@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 
-## 7회 (예정)
+## 8회
  * 일시 - 2019년 7월 30일(화), 19시-21시 00분 
 
 * 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
@@ -17,7 +17,25 @@ Shinykorea Meetup
     + [김병건](https://github.com/skysign): [요즘은 데이터 분석 공부를 어떻게 시작하시나요?]()
     
     
-회비는 15,000원입니다.
+회비는 10,000원입니다.
+
+
+## 7회
+ * 일시 - 2019년 7월 30일(화), 19시-21시 00분 
+
+* 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/), [코스랩](https://kosslab.kr/mobile/index.php) 
+
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이희재](https://github.com/Poohj), [이상열](https://github.com/syleeie2310), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign)
+
+* 발표 내용
+    + [이희재](https://github.com/Poohj): [사회인 야구 데이터로 나의 지표 만들기]()
+     
+    + [김병건](https://github.com/skysign): [요즘은 데이터 분석 공부를 어떻게 시작하시나요?]()
+    
+    
+회비는 10,000원입니다.
 
 
 ## 6회
