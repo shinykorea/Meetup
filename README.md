@@ -30,7 +30,7 @@ Shinykorea Meetup
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이희재](https://github.com/Poohj), [이상열](https://github.com/syleeie2310), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign), [이진호](https://github.com/jinholeetopology), [이재화]()
 
 * 발표 내용
-    + [이희재](https://github.com/Poohj): [사회인 야구 데이터로 나의 지표 만들기]()
+    + [이희재](https://github.com/Poohj): [사회인 야구 데이터로 나의 지표 만들기](https://github.com/Poohj/Rselenium)
      
     + 요즘은 데이터 분석 공부를 어떻게 시작하시나요?
     
