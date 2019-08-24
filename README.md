@@ -16,6 +16,8 @@ Shinykorea Meetup
      
     + [이재화](https://github.com/Leeyua-airim):
     
+    + [탁온식](https://github.com/takos1026): [CSS로 더 디테일하게 Shiny 꾸미기 기초](https://github.com/takos1026/shiny_meeup_201908)
+    
     
 회비는 10,000원입니다.
 
