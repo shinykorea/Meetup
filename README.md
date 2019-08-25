@@ -14,7 +14,7 @@ Shinykorea Meetup
 * 발표 내용
     + [강동훈](https://github.com/DonghoonGang):
      
-    + [이재화](https://github.com/Leeyua-airim):
+    + [이재화](https://github.com/Leeyua-airim): 모두가 함께할 수 있는 R 그리고 SHINY
     
     + [탁온식](https://github.com/takos1026): [CSS로 더 디테일하게 Shiny 꾸미기 기초](https://github.com/takos1026/shiny_meeup_201908)
     
