@@ -8,7 +8,7 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [코스랩](https://kosslab.kr/mobile/index.php) 
 
-* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim)
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim), [임동조](https://github.com/LDJWJ)
 
 * 발표 내용
     
@@ -19,14 +19,14 @@ Shinykorea Meetup
     
 회비는 10,000원입니다.
 
-## 8회 (예정)
+## 8회
  * 일시 - 2019년 8월 27일(화), 19시-21시 00분 
 
 * 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [코스랩](https://kosslab.kr/mobile/index.php) 
 
-* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [이진호](https://github.com/jinholeetopology)
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [이진호](https://github.com/jinholeetopology),[임동조](https://github.com/LDJWJ)
 
 * 발표 내용
     + [강동훈](https://github.com/DonghoonGang): [GloVe 소개](https://github.com/shinykorea/glove)
