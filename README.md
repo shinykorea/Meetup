@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 9회 (예정)
- * 일시 - 2019년 9월 27일(금), 19시-21시 00분 
+ * 일시 - 2019년 9월 26일(목), 19시-21시 00분 
 
 * 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
 
@@ -13,6 +13,8 @@ Shinykorea Meetup
 * 발표 내용
     
     + [이재화](https://github.com/Leeyua-airim): 모두가 함께할 수 있는 R 그리고 SHINY
+    
+    + [이상열](https://github.com/syleeie2310): ggpubr 소개
     
     
 회비는 10,000원입니다.
