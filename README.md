@@ -33,7 +33,7 @@ Shinykorea Meetup
     
     + [탁온식](https://github.com/takos1026): [CSS로 더 디테일하게 Shiny 꾸미기 기초](https://github.com/takos1026/shiny_meeup_201908)
     
-    + [김진섭](https://github.com/jinseob2kim): [ShinyApps 에 로그인 기능 넣기](https://blog.zarathu.com/posts/2019-08-25-shinymanager)
+    + [김진섭](https://github.com/jinseob2kim): [ShinyApps 에 로그인 기능 넣기](https://jinseob2kim.github.io/LectureRpackage/shinymanager/)
     
     
 회비는 10,000원입니다.
