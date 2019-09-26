@@ -14,7 +14,7 @@ Shinykorea Meetup
     
     + [이재화](https://github.com/Leeyua-airim): 모두가 함께할 수 있는 R 그리고 SHINY
     
-    + [이상열](https://github.com/syleeie2310): ggpubr 소개
+    + [이상열](https://github.com/syleeie2310): [ggpubr 소개](https://github.com/shinykorea/Meetup/tree/master/20190926)
     
     
 회비는 10,000원입니다.
