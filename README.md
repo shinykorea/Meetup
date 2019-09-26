@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 10회 (예정)
- * 일시 - 2019년 10월 25일(금), 19시-21시 00분 
+ * 일시 - 2019년 10월 31일(목), 19시-21시 00분 
 
 * 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
 
@@ -12,10 +12,11 @@ Shinykorea Meetup
 
 * 발표 내용
     
-    + [이재화](https://github.com/Leeyua-airim): 
+    + [강동훈](https://github.com/DonghoonGang): RUCK 2019 후기  
     
-    + [이상열](https://github.com/syleeie2310): [ggpubr 소개](https://github.com/shinykorea/Meetup/tree/master/20190926)
+    + [김진섭](https://github.com/jinseob2kim): RUCK 2019 후기  
     
+    + [나영준](https://github.com/YoungjunNa): RUCK 2019 후기
     
 회비는 10,000원입니다.
 
@@ -30,7 +31,7 @@ Shinykorea Meetup
 
 * 발표 내용
     
-    + [이재화](https://github.com/Leeyua-airim): [R Shiny Yoytube ](), [코딩없는 데이터수집 소개](https://www.youtube.com/watch?v=JUERTTpv8LM) 
+    + [이재화](https://github.com/Leeyua-airim): [코딩없는 데이터수집 소개](https://www.youtube.com/watch?v=JUERTTpv8LM), R Shiny Yoytube 제작 후기
     
     + [이상열](https://github.com/syleeie2310): [ggpubr 소개](https://github.com/shinykorea/Meetup/tree/master/20190926)
     
