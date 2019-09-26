@@ -1,0 +1,478 @@
+---
+title: "Extensions to ggplot2 (ggpubr, ggrides, ...)"
+author: "Sang Yeol Lee"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  beamer_presentation:
+    colortheme: dolphin
+    fig_width: 7
+    fig_height: 6
+    df_print: paged
+    fonttheme: structurebold
+    includes:
+      in_header: mystyle.tex
+    latex_engine: xelatex
+    incremental: false
+    self_contained: no
+    slide_level: 2
+    theme: CambridgeUS
+  ioslides_presentation: default
+  uslides::pdf: default
+mainfont: NanumGothic
+institute: "| DataBreak \n| ShinyKorea-Meetup \n"
+always_allow_html: yes
+classoption: "aspectratio=169"
+---
+
+
+```{r setup, echo=FALSE, include=FALSE}
+knitr::knit_hooks$set(mysize = function(before, options, envir) {
+  if (before) 
+    return(options$size)
+})
+knitr::opts_chunk$set(size='\\small')
+knitr::opts_chunk$set(warning=FALSE)
+knitr::opts_chunk$set(message=FALSE)
+knitr::opts_chunk$set(fig.align='center')
+knitr::opts_chunk$set(echo=FALSE)
+
+set.seed(2310)
+require(tidyverse)
+require(plotly)
+require(lubridate)
+require(ggpubr)
+require(ggrides)
+
+my_theme <- function(base_size = 12, base_family = "sans"){
+  theme_minimal(base_size = base_size, base_family = base_family) +
+    theme(
+      axis.text = element_text(size = 12),
+      axis.title = element_text(size = 14),
+      panel.grid.major = element_line(color = "grey"),
+      panel.grid.minor = element_blank(),
+      panel.background = element_rect(fill = "aliceblue"),
+      strip.background = element_rect(fill = "lightgrey", color = "grey", size = 1),
+      strip.text = element_text(face = "bold", size = 9, color = "black"),
+      legend.position = "right",
+      legend.justification = "top",
+      panel.border = element_rect(color = "grey", fill = NA, size = 0.5)
+    )
+}
+
+```
+
+## 1. Intro
+
+- [데이터뽀개기 운영](databreak.org) 을 하고 있습니다. 커뮤니티 운영하느라 공부는 소홀해지고 있네요...
+- 데이터 탐색 시각화는 R로 하고 머신러닝 및 서비스 적용하기 위한 개발은 python으로 합니다.
+- 요즘 관심사는 추천시스템이고 pyspark-Mllib 통해 모델링하고 개발하고 있습니다.
+- 오늘은 12 Extensions to ggplot2 for More Powerful R Visualization 내용을 소개드릴 예정입니다. 그 중에서 최근 제가 사용했던 ggpubr, ggrides에 대해서 소개드릴게요. [원본](https://mode.com/blog/r-ggplot-extension-packages)
+- ggplot2을 다루는 분들은 환영입니다.!
+
+
+## 2. ggplot2
+
+- ggplot2는 2007년에 소개된 이래 세계에서 가장 많이 다운로드되고 널리 사용되는 R 패키지 중 하나입니다.
+- 패키지는 Leland Wilkinson의 주요 텍스트 인 [The Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)에서 영감을 얻어 스케일과 레이어와 같은 시맨틱 컴포넌트로 그래프를 나누고 프리젠테이션과 데이터를 분리합니다.
+- R 커뮤니티는 지난 10 년 동안 ggplot2 용 확장 패키지를 구축하는 작업에 열심히 노력했습니다.
+
+
+## 2. ggplot2 - code
+
+\tiny 
+```{r, out.width='50%'}
+sample_data <- read.csv('./data/sample_data.csv', sep='\t', stringsAsFactors = F)
+sample_data <- sample_data %>% 
+  mutate(stddt = ymd(stddt), amt_yn = ifelse(amt > 0 , 1, 0),
+         pt_group = as.factor(case_when(pt <= 10  ~ '01. <= 10',
+                               pt <= 60  ~ '02. <= 60',
+                               pt <= 240  ~ '03. <= 240',
+                               pt > 240  ~ '04. > 240')))
+
+sample_data %>% group_by(stddt) %>%
+  dplyr::summarise(dau = n_distinct(id)) %>%  ggplot(aes(x=stddt, y=dau)) + geom_line() + xlab("View Duration (date)") + ylab("Users") + ggtitle("Daily Active Users graph(line)") + my_theme()
+```
+
+
+## 2. ggplot2 - code (2)
+
+\tiny 
+```{r, out.width='80%'}
+dau_retention_table <- sample_data %>%
+  left_join(sample_data, by= c("id")) %>%
+  rename(first_date = stddt.x, login_date = stddt.y) %>%
+  mutate(datediff = login_date - first_date) %>%
+  dplyr::filter(dplyr::between(datediff, 0, 14)) %>%
+  count(first_date, datediff) %>%  spread(datediff, n)
+
+DT::datatable(dau_retention_table)
+```
+
+## 2. ggplot2 - code (3)
+
+\tiny 
+```{r out.width='50%'}
+library(scales)
+start_day <- '2018-10-01'
+close_day <- '2019-04-25'
+dau_retention_table %>%
+  ggplot(aes(x=first_date)) + 
+  geom_line(aes(y = (`1` * 1.0) / `0`, col = '1.D+1'), size=1) + 
+  geom_line(aes(y = (`7` * 1.0) / `0`, col = '2.D+7'), size=1) + 
+  geom_line(aes(y = (`14` * 1.0) / `0`, col = '3.D+14'), size=1) + 
+  scale_x_date(date_breaks = "1 month", 
+               labels=date_format("%b/%d"),
+               limits = as.Date(c(start_day,close_day))) +
+  xlab("View Duration (date)") + ylab("Retention Rate") + ggtitle("Retention graph(line)") + my_theme() + coord_cartesian(ylim=c(0.5,1)) + scale_y_continuous(label=percent)
+```
+
+
+## 3. ggpubr
+
+\FontSmall
+- ggplot2 기반 그래프 생성을 쉽게 할 수 있는 라이브러리 (논문에 출판 가능한 그림을 이쁘게 그릴 수 있음!!!)
+- 쉽게 주석을 달거나, 정렬하거나, 색상 및 레이블과 같은 세부적인 매개 변수 컨트롤이 쉬움
+- Automatically add p-values and significance levels to box plots, bar plots, line plots, and more
+
+- 참고 레퍼런스
+  - [Facilitating Exploratory Data Visualization: Application to TCGA Genomic Data](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/77-facilitating-exploratory-data-visualization-application-to-tcga-genomic-data/)
+  - [Add P-values and Significance Levels to ggplots](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/76-add-p-values-and-significance-levels-to-ggplots/)
+  - [Perfect Scatter Plots with Correlation and Marginal Histograms](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/78-perfect-scatter-plots-with-correlation-and-marginal-histograms/)
+  - [Plot Means/Medians and Error Bars](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/79-plot-meansmedians-and-error-bars/)
+  - [Bar Plots and Modern Alternatives](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/80-bar-plots-and-modern-alternatives/)
+  - [Add Text Labels to Histogram and Density Plots](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/84-add-text-labels-to-histogram-and-density-plots/)
+  - [ggplot2 - Easy Way to Mix Multiple Graphs on The Same Page](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/)
+  - [ggplot2 - Easy Way to Change Graphical Parameters](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/82-ggplot2-easy-way-to-change-graphical-parameters/)
+  - [Create and Customize Multi-panel ggplots: Easy Guide to Facet](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/83-create-and-customize-multi-panel-ggplots-easy-guide-to-facet/)
+
+
+## 3. ggpubr (1)
+
+- Distribution
+
+\tiny 
+```{r out.width='50%'}
+sample_data %>%  mutate(pt = as.numeric(pt),
+         amt_yn = as.factor(amt_yn)) %>%
+  ggdensity(x = "pt", add = "mean", rug = TRUE,
+          color = "amt_yn", fill = "amt_yn",
+          palette = c("#00AFBB", "#E7B800"))
+```
+
+## 3. ggpubr (2)
+
+- gghistogram
+
+\tiny 
+```{r out.width='50%'}
+sample_data %>% mutate(pt = as.numeric(pt), amt_yn = as.factor(amt_yn)) %>%
+  gghistogram(x = "pt", add = "mean", rug = TRUE,
+          color = "amt_yn", fill = "amt_yn",
+          palette = c("#00AFBB", "#E7B800"))
+```
+
+## 3. ggpubr (3)
+
+- Box plots and violin plots
+
+\tiny 
+```{r out.width='50%'}
+bx_plot <- sample_data %>%
+  mutate(pt = as.numeric(pt), amt_yn = as.factor(amt_yn)) %>%
+  ggboxplot(x = "pt_group", y = "amt", color = "pt_group", add = "jitter", shape = "pt_group")
+bx_plot
+```
+
+
+## 3. ggpubr (4)
+
+- Box plots and violin plots
+
+\tiny 
+```{r out.width='50%'}
+my_comparisons <- list( c('01. <= 10', '02. <= 60'), c('02. <= 60', '03. <= 240'), c('03. <= 240', '04. > 240' ), c('01. <= 10', '03. <= 240'), c('02. <= 60', '04. > 240'), c('01. <= 10', '04. > 240') )
+
+bx_plot + stat_compare_means(comparisons = my_comparisons)+ # Add pairwise comparisons p-value
+  stat_compare_means(label.y = 50)                   # Add global p-value
+
+```
+
+
+## 3. ggpubr (5)
+
+- Box plots and violin plots
+
+\tiny 
+```{r out.width='50%'}
+sample_data %>%
+  mutate(pt = as.numeric(pt), amt = log10(amt), amt_yn = as.factor(amt_yn)) %>%
+  ggviolin(x = "pt_group", y = "amt", fill = "pt_group",
+         add = "boxplot", add.params = list(fill = "white"),
+         ylim  = c(0,10)) +
+  stat_compare_means(comparisons = my_comparisons, label = "p.signif")+ # Add significance levels
+  stat_compare_means(label.y = 50)
+```
+
+
+## 3. ggpubr (6)
+
+- Box plots and violin plots
+
+\tiny 
+```{r out.width='50%'}
+sample_data %>%
+  mutate(pt = as.numeric(pt), amt = log10(amt), amt_yn = as.factor(amt_yn)) %>%
+  ggviolin(x = "pt_group", y = "amt", fill = "pt_group",
+         add = "boxplot", add.params = list(fill = "white"),
+         ylim  = c(0,10)) +
+  stat_compare_means(comparisons = my_comparisons, label = "p.signif")+ # Add significance levels
+  stat_compare_means(label.y = 50)
+```
+
+
+
+## 3. ggpubr (7)
+
+- Change titles and axis labels
+
+\tiny 
+```{r out.width='50%'}
+sample_data %>%
+  mutate(pt = as.numeric(pt),
+         amt = log10(amt),
+         amt_yn = as.factor(amt_yn)) %>%
+  ggviolin(x = "pt_group", y = "amt", fill = "pt_group",
+         add = "boxplot", add.params = list(fill = "white"),
+         title = "Violin Plot created with ggpubr",
+         ylim  = c(0,10)) +
+  stat_compare_means(comparisons = my_comparisons, label = "p.signif")+ # Add significance levels
+  stat_compare_means(label.y = 50) +
+  font("title", size = 14, color = "red", face = "bold.italic")+
+  font("subtitle", size = 10, color = "orange")+
+  font("caption", size = 10, color = "orange")+
+  font("xlab", size = 12, color = "blue")+
+  font("ylab", size = 12, color = "#993333")
+```
+
+
+## 3. ggpubr (8)
+
+- Ordered bar plots
+
+\tiny 
+```{r out.width='50%'}
+sample_data %>%
+  group_by(pt_group) %>% summarise(mean_amt = mean(amt, na.rm=T)) %>%
+  ggbarplot(x = "pt_group", y = "mean_amt",
+          fill = "pt_group",               # change fill color by cyl
+          color = "white",            # Set bar border colors to white
+          palette = "jco",            # jco journal color palett. see ?ggpar
+          sort.val = "desc",          # Sort the value in dscending order
+          sort.by.groups = FALSE,     # Don't sort inside each group
+          x.text.angle = 90)          # Rotate vertically x axis texts
+```
+
+
+## 3. ggpubr (9)
+
+- Perfect Scatter Plots with Correlation and Marginal Histograms
+
+\tiny 
+```{r out.width='50%'}
+amt_pt_group <- sample_data %>%
+  group_by(id) %>% summarise(sum_amt = sum(amt, na.rm=T),
+            sum_pt = sum(pt, na.rm=T)) %>%
+  mutate(amt_group = case_when(sum_amt == 0 ~ 'non-pu',
+                               sum_amt <= 30000 ~ '<= 30000',
+                               sum_amt <= 100000 ~ '<= 100000',
+                               sum_amt > 100000 ~ '> 100000'
+                               ))
+
+ggscatter(amt_pt_group, x = "sum_amt", y = "sum_pt",
+          add = "reg.line",                                 # Add regression line
+          conf.int = TRUE,                                  # Add confidence interval
+          add.params = list(color = "blue",
+                            fill = "lightgray")
+          )+
+  stat_cor(method = "pearson", label.x = 1, label.y = 250000)  # Add correlation coefficient
+```
+
+
+## 3. ggpubr (10)
+
+\FontSmall
+- Color by groups (Grouping variable: 결제금액_group). To add a correlation coefficient per group, specify the grouping variable using the mapping function aes() as follow.
+
+```{r out.width='50%'}
+amt_pt_group %>%
+  mutate(amt_group = case_when(sum_amt == 0 ~ 'non-pu',
+                               sum_amt <= 30000 ~ '<= 30000',
+                               sum_amt <= 100000 ~ '<= 100000',
+                               sum_amt > 100000 ~ '> 100000'
+                               )) %>%
+  ggscatter(x = "sum_pt", y = "sum_amt",
+          add = "reg.line",                                 # Add regression line
+          conf.int = TRUE,
+          title = "Scatter Plot (Amt Group)",
+          color = "amt_group", palette = "jco") +    
+          # Add confidence interval
+          stat_cor(aes(color = amt_group)) +  # Add correlation coefficient 
+  font("legend.text", size = 8)
+```
+
+
+## 3. ggpubr (11)
+
+\FontSmall
+- marginal 플롯 추가 (ggExtra 패키지의 ggMarginal() 함수는 분산 히스토그램, 밀도 또는 상자 그림을 산포도에 쉽게 추가하는 데 사용할 수 있습니다.) (ggExtra 패키지 설치 필요)
+
+```{r out.width='50%'}
+library("ggExtra")
+p1 <- amt_pt_group %>%
+  filter(sum_amt > 0 & sum_pt > 0) %>%
+  ggscatter(x = "sum_pt", y = "sum_amt",
+            color = "amt_group", palette = "jco",
+               size = 3, alpha = 0.6)
+ggMarginal(p1, type = "density")
+ggMarginal(p1, type = "boxplot")
+```
+
+
+## 3. ggpubr (12)
+
+\FontSmall
+-ggExtra의 한 가지 제한은 산점도와 marginal plots에서 여러 그룹을 처리 할 수 없다는 것. 아래의 R 코드에서 cowplot 패키지를 사용하는 솔루션을 활용
+
+```{r out.width='50%'}
+# Add density distribution as marginal plot
+p2 <- amt_pt_group %>%
+  filter(sum_amt > 0 & sum_pt > 0) %>%
+  ggscatter(x = "sum_pt", y = "sum_amt",
+            color = "amt_group", palette = "jco",
+            size = 2, alpha = 0.4, xscale = 'log10', yscale='log10') + border()                                         
+xplot <- amt_pt_group %>%
+        filter(sum_amt > 0 & sum_pt > 0) %>%
+        ggdensity(x = "sum_pt", fill = "amt_group",
+                   palette = "jco", xscale = 'log10')
+yplot <- amt_pt_group %>%
+        filter(sum_amt > 0 & sum_pt > 0) %>%
+        ggdensity(x = "sum_amt", fill = "amt_group", 
+                   palette = "jco", xscale = 'log10') +  rotate()
+sp <- p2 + rremove("legend")
+yplot <- yplot + clean_theme() + rremove("legend")
+xplot <- xplot + clean_theme() + rremove("legend")
+library(cowplot)
+plot_grid(xplot, NULL, sp, yplot, ncol = 2, align = "hv", 
+          rel_widths = c(2, 1), rel_heights = c(1, 2))
+
+```
+
+
+## 4. ggrides (1)
+
+- Ridgeline(능선) 도표는 시간 또는 공간에 따른 분포의 변화를 시각화 하는 편리한 방법을 제공합니다.
+- [reference](https://cran.r-project.org/web/packages/ggridges/ggridges.pdf)
+
+```{r out.width='50%'}
+library(ggridges)
+ggplot(sample_data, aes(pt)) +
+  geom_density_line()
+```
+
+
+## 4. ggrides (2)
+
+-geom_density_ridges는 유명한 Joy Division 앨범 Unknown Pleasures의 표지와 같이 여러 밀도 플롯을 엇갈리게 배열합니다. [Unknown Pleasures](https://i.kinja-img.com/gawker-media/image/upload/s--pZ0vC6SE--/c_scale,f_auto,fl_progressive,q_80,w_800/qyaz3i8usy1hxfzw3msb.jpg)
+
+```{r out.width='50%'}
+ggplot(amt_pt_group, aes(x = sum_pt, y = amt_group)) +
+  geom_density_ridges(rel_min_height = 0.005) +
+  scale_y_discrete(expand = c(0.01, 0)) +
+  scale_x_continuous(expand = c(0.01, 0)) +
+  theme_ridges()
+```
+
+## 4. ggrides (2)
+
+\FontSmall
+- Ridgeline 도표는 시간 또는 공간에 따른 분포의 변화를 시각화하는 편리한 방법을 제공합니다. 이 패키지는 'ggplot2'에서 이러한 플롯을 생성할 수 있습니다.
+- y와 높이에 매핑 된 데이터는 동일한 단위여야 함. 높이를 상대적으로 조정하려면 stat = "identity"로 geom_density_ridges를 사용할 수 있습니다
+
+```{r out.width='50%'}
+d <- data.frame(x = rep(1:5, 3), y = c(rep(0, 5), rep(1, 5), rep(3, 5)),
+                height = c(0, 1, 3, 4, 0, 1, 2, 3, 5, 4, 0, 5, 4, 4, 1))
+ggplot(d, aes(x, y, height = height, group = y)) + 
+  geom_ridgeline(fill="lightblue")
+```
+
+## 4. ggrides (3)
+
+\FontSmall
+- geom_ridgeline_gradient 및 geom_density_ridges_gradient geoms_ridgeline_gradient 및 geom_density_ridges_gradient는 채우기 미학이 x 축을 따라 변할 수 있다는 점을 제외하고 geom_ridgeline 및 geom_density_ridges와 동일하게 작동합니다. 
+- 꼭 필요한 경우가 아니라면 사용하지 마십시오. R 그래픽 시스템의 한계로 인해 그라디언트 채우기에 투명도 (α)를 비활성화 해야함
+
+```{r out.width='50%'}
+library(viridis)
+d <- data.frame(x = rep(1:5, 3) + c(rep(0, 5), rep(0.3, 5), rep(0.6, 5)),
+y = c(rep(0, 5), rep(1, 5), rep(3, 5)),
+height = c(0, 1, 3, 4, 0, 1, 2, 3, 5, 4, 0, 5, 4, 4, 1))
+
+ggplot(d, aes(x, y, height = height, group = y, fill = factor(x+y))) +
+  geom_ridgeline_gradient() +
+  scale_fill_viridis(discrete = TRUE, direction = -1) +
+  theme(legend.position = 'none')
+```
+
+
+## 4. ggrides (4)
+
+\FontSmall
+- point_color, point_fill, point_size와 같이 포인트 미학에 적용할 수 있는 다양한 스케일입니다. 개별 스케일은 모두 기존 표준 ggplot2 스케일과 사용법이 동일하며 이름 만 다릅니다.
+
+```{r out.width='50%'}
+# modified scales
+ggplot(iris, aes(x=Sepal.Length, y=Species, fill = Species)) +
+  geom_density_ridges(
+  aes(
+    point_color = Species, point_fill = Species,
+    point_shape = Species
+  ),
+    alpha = .4, point_alpha = 1,
+    jittered_points = TRUE
+  ) +
+  scale_fill_hue(l = 50) +
+  scale_point_color_hue(l = 20) +
+  scale_point_fill_hue(l = 70) +
+  scale_discrete_manual("point_shape", values = c(21, 22, 23)) +
+  theme_ridges()
+```
+
+## 4. ggrides (5)
+
+- point 미학에 대한 특정 배율에 대해서는 scale_point_color_hue() 및 일반 이산 스케일에 대해서는 scale_discrete_manual()을 참조하십시오.
+
+```{r out.width='50%'}
+# modified scales
+ggplot(iris, aes(x=Sepal.Length, y=Species, fill = Species, color = Species)) +
+  geom_density_ridges(
+  aes(vline_color = Species), alpha = .4, quantile_lines = TRUE
+  ) +
+  scale_fill_hue(l = 50) +
+  scale_vline_color_hue(l = 30) +
+  theme_ridges()
+```
+
+## 4. ggrides (6)
+
+\FontSmall
+- 출력이 카운트 set가 아닌 히스토그램을 설명하는 능선이라는 점을 제외하고 stat_bin 함수와 동일하게 작동합니다.
+
+
+```{r out.width='50%'}
+ggplot(iris, aes(x = Sepal.Length, y = Species, group = Species, fill = Species)) +
+  stat_binline(bins = 20, scale = 2.2, draw_baseline = FALSE) +
+  scale_y_discrete(expand = c(0.01, 0)) +
+  scale_x_continuous(expand = c(0.01, 0)) +
+  scale_fill_grey() +
+  theme_ridges() + theme(legend.position = 'none')
+```
