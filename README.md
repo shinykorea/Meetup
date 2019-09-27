@@ -31,7 +31,7 @@ Shinykorea Meetup
 
 * 발표 내용
     
-    + [이재화](https://github.com/Leeyua-airim): [코딩없는 데이터수집 소개](https://www.youtube.com/watch?v=JUERTTpv8LM), R Shiny Yoytube 제작 후기
+    + [이재화](https://github.com/Leeyua-airim): [코딩없는 데이터수집 소개](https://www.youtube.com/watch?v=JUERTTpv8LM), [R Shiny Yoytube 제작 후기](https://github.com/shinykorea/Meetup/blob/master/20190926/R_SHINY_MEETUP.pptx)
     
     + [이상열](https://github.com/syleeie2310): [ggpubr 소개](https://github.com/shinykorea/Meetup/tree/master/20190926)
     
