@@ -10,13 +10,13 @@ Shinykorea Meetup
 
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim), [임동조](https://github.com/LDJWJ)
 
-* 발표 내용
+* 발표 내용: RUCK 2019 후기
     
-    + [강동훈](https://github.com/DonghoonGang): RUCK 2019 후기  
+    + [강동훈](https://github.com/DonghoonGang): [재무제표 시각화](http://ruck2019.r-kor.org/speakers/clever3737/)
     
-    + [김진섭](https://github.com/jinseob2kim): RUCK 2019 후기  
+    + [김진섭](https://github.com/jinseob2kim): [From ShinyApps to CRAN](https://blog.zarathu.com/posts/2019-10-25-ruck2019/)  
     
-    + [나영준](https://github.com/YoungjunNa): RUCK 2019 후기
+    + [나영준](https://github.com/YoungjunNa): [스마트하게 젖소 키우기 with Shiny (부제: 목마른 놈이 우물 판다)](http://ruck2019.r-kor.org/speakers/youngjunna/)
     
 회비는 10,000원입니다.
 
