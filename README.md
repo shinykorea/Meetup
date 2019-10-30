@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용: RUCK 2019 후기
     
-    + [강동훈](https://github.com/DonghoonGang): [재무제표 시각화](http://ruck2019.r-kor.org/speakers/clever3737/)
+    + [강동훈](https://github.com/DonghoonGang): [재무제표 시각화](https://github.com/shinykorea/RUCK2019/raw/master/%EC%9E%AC%EB%AC%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/%ED%9A%8C%EA%B3%84%EC%A0%95%EB%B3%B4%EC%8B%9C%EA%B0%81%ED%99%94v1.1.0.pptx)
     
     + [김진섭](https://github.com/jinseob2kim): [From ShinyApps to CRAN](https://blog.zarathu.com/posts/2019-10-25-ruck2019/)  
     
