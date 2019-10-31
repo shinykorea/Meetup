@@ -1,8 +1,8 @@
 # Meetup
 Shinykorea Meetup 
 
-## 10회 (예정)
- * 일시 - 2019년 10월 31일(목), 19시-21시 00분 
+## 11회 (예정)
+ * 일시 - 2019년 11월 25일(월), 19시-21시 00분 
 
 * 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
 
@@ -10,13 +10,29 @@ Shinykorea Meetup
 
 * 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310),[이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim), [임동조](https://github.com/LDJWJ)
 
+* 발표 내용:
+    
+    + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용
+    
+    + [이창선](https://github.com/csleekorea): 
+    
+    
+## 10회
+ * 일시 - 2019년 10월 31일(목), 19시-21시 00분 
+
+* 장소 - [서울특별시 강남구 테헤란로 311 아남타워 7층](https://map.naver.com/local/siteview.nhn?code=38258956&_ts=1551275149942)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/), [코스랩](https://kosslab.kr/mobile/index.php)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology)
+
 * 발표 내용: RUCK 2019 후기
     
     + [강동훈](https://github.com/DonghoonGang): [재무제표 시각화](https://github.com/shinykorea/RUCK2019/raw/master/%EC%9E%AC%EB%AC%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/%ED%9A%8C%EA%B3%84%EC%A0%95%EB%B3%B4%EC%8B%9C%EA%B0%81%ED%99%94v1.1.0.pptx)
     
     + [김진섭](https://github.com/jinseob2kim): [From ShinyApps to CRAN](https://blog.zarathu.com/posts/2019-10-25-ruck2019/)  
     
-    + [나영준](https://github.com/YoungjunNa): [스마트하게 젖소 키우기 with Shiny (부제: 목마른 놈이 우물 판다)](http://ruck2019.r-kor.org/speakers/youngjunna/)
+    + [나영준](https://github.com/YoungjunNa): [스마트하게 젖소 키우기 with Shiny (부제: 목마른 놈이 우물 판다)](https://github.com/YoungjunNa/2019-RUCK/raw/master/2019-ruck-youngjunna-3.pdf)
     
 회비는 10,000원입니다.
 
