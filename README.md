@@ -4,7 +4,7 @@ Shinykorea Meetup
 ## 11회 (예정)
  * 일시 - 2019년 11월 25일(월), 19시-21시 00분 
 
-* 장소 - [공간더하기](http://www.spaceplus.co.kr/)
+* 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
 
