@@ -16,6 +16,8 @@ Shinykorea Meetup
     
     + [이창선](https://github.com/csleekorea): 
     
+    + [강동훈](https://github.com/DonghoonGang):
+    
     
 ## 10회
  * 일시 - 2019년 10월 31일(목), 19시-21시 00분 
