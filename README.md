@@ -16,7 +16,7 @@ Shinykorea Meetup
     
     + [이창선](https://github.com/csleekorea): 맞춤 소프트웨어 개발
     
-    + [강동훈](https://github.com/DonghoonGang):
+    + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
     
     
 ## 10회
