@@ -14,7 +14,7 @@ Shinykorea Meetup
     
     + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용
     
-    + [이창선](https://github.com/csleekorea): 맞춤 소프트웨어 개발
+    + [이창선](https://github.com/csleekorea): 스마트 리포팅 소프트웨어 개발
     
     + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
     
