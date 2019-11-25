@@ -1,7 +1,25 @@
 # Meetup
 Shinykorea Meetup 
 
-## 11회 (예정)
+## 12회 (예정)
+ * 일시 - 2019년 12월 26일(목), 19시-21시 00분 
+
+* 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
+
+* 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
+
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310),[이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim), [임동조](https://github.com/LDJWJ)
+
+* 발표 내용:
+    
+    + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용
+    
+    + [이창선](https://github.com/csleekorea): 맞춤 소프트웨어 개발
+    
+    + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
+    
+    
+## 11회
  * 일시 - 2019년 11월 25일(월), 19시-21시 00분 
 
 * 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
