@@ -8,11 +8,11 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
 
-* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310),[이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim), [임동조](https://github.com/LDJWJ)
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김병건](https://github.com/skysign), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [김진환](https://github.com/jhk0530), [신현석](https://github.com/shinhseok)
 
 * 발표 내용:
     
-    + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용
+    + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용(2)
     
     + [이창선](https://github.com/csleekorea): 맞춤 소프트웨어 개발
     
@@ -26,11 +26,11 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
 
-* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310),[이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [이재화](https://github.com/Leeyua-airim), [임동조](https://github.com/LDJWJ)
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김병건](https://github.com/skysign), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [김진환](https://github.com/jhk0530), [신현석](https://github.com/shinhseok)
 
 * 발표 내용:
     
-    + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용
+    + [이진호](https://github.com/jinholeetopology): 반도체 데이터 분석에서 shiny 활용(1)
     
     + [이창선](https://github.com/csleekorea): 맞춤 소프트웨어 개발
     
