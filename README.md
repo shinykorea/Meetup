@@ -34,7 +34,7 @@ Shinykorea Meetup
     
     + [이창선](https://github.com/csleekorea): 맞춤 소프트웨어 개발
     
-    + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
+    + [김병건](https://github.com/skysign): 서울시 공개빅데이터 활용 직장인 봉사활동 최적장소 추천
     
     
 ## 10회
