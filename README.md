@@ -36,6 +36,7 @@ Shinykorea Meetup
     
     + [김병건](https://github.com/skysign): 서울시 공개빅데이터 활용 직장인 봉사활동 최적장소 추천
     
+    + [나영준](https://github.com/YoungjunNa): [shinydashboard css 다루기](https://github.com/shinykorea/fresh_example)
     
 ## 10회
  * 일시 - 2019년 10월 31일(목), 19시-21시 00분 
