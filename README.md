@@ -14,6 +14,8 @@ Shinykorea Meetup
     
     + [이진호](https://github.com/jinholeetopology): shiny 에서 PostgreSQL 활용 방법(2)
     
+    + [이창선](https://github.com/csleekorea): 스마트 리포팅 소프트웨어 개발
+
     + [김진섭](https://github.com/csleekorea): [RSelenium 활용팁](https://jinseob2kim.github.io/LectureRpackage/RSelenium)
     
     + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
