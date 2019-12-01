@@ -34,7 +34,7 @@ Shinykorea Meetup
     
     + [이창선](https://github.com/csleekorea): [스마트 경영 시스템 소프트웨어](https://github.com/csleekorea/SmartManageSystem/blob/master/191125%20-%EB%A7%9F%EC%B6%A4%ED%98%95%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C%20.pptx?raw=true)
     
-    + [김병건](https://github.com/skysign): 서울시 공개빅데이터 활용 직장인 봉사활동 최적장소 추천
+    + [김병건](https://github.com/skysign): 서울시 빅데이터캠퍼스 2019하반기 공모전 응모작 / '비영리 단체를 위한 최적의 모임 & 행사 위치 찾기'
     
     + [나영준](https://github.com/YoungjunNa): [shinydashboard css 다루기](https://github.com/shinykorea/fresh_example)
     
