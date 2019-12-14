@@ -20,6 +20,8 @@ Shinykorea Meetup
     
     + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
     
+    + [김진환](https://github.com/jhk0530): [Javascript 라이브러리를 shiny에 wrapper 하기](https://https://github.com/jhk0530/shinyRoughJSbasic)
+    
     
 ## 11회
  * 일시 - 2019년 11월 25일(월), 19시-21시 00분 
