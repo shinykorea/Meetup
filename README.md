@@ -20,7 +20,7 @@ Shinykorea Meetup
     
     + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
     
-    + [김진환](https://github.com/jhk0530): [Javascript 라이브러리를 shiny에 wrapper 하기](https://github.com/jhk0530/shinyRoughJSbasic)
+    + [김진환](https://github.com/jhk0530): [Javascript 라이브러리를 shiny에 wrapper 하기](https://github.com/jhk0530/shinyRoughJSbasic/raw/master/shinyroughjs.pptx)
     
     
 ## 11회
