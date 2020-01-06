@@ -30,7 +30,7 @@ Shinykorea Meetup
     
     + [김진섭](https://github.com/csleekorea): [RSelenium 활용팁](https://jinseob2kim.github.io/LectureRpackage/RSelenium)
     
-    + [김진환](https://github.com/jhk0530): [Javascript 라이브러리를 shiny에 wrapper 하기](https://github.com/jhk0530/shinyRoughJSbasic/), [PPT](https://github.com/jhk0530/shinyRoughJSbasic/raw/master/shinyroughjs.pptx)
+    + [김진환](https://github.com/jhk0530): [Javascript 라이브러리를 shiny에 wrapper 하기](https://github.com/jhk0530/shinyRoughJSbasic/) ([PPT](https://github.com/jhk0530/shinyRoughJSbasic/raw/master/shinyroughjs.pptx))
     
     
 ## 11회
