@@ -17,7 +17,7 @@ Shinykorea Meetup
     + [탁온식](https://github.com/takos1026): 창업지원사업  
    
     
-## 12회 (예정)
+## 12회
  * 일시 - 2019년 1월 6일(월), 19시-21시 00분 
 
 * 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
