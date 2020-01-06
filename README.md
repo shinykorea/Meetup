@@ -1,6 +1,24 @@
 # Meetup
 Shinykorea Meetup 
 
+## 13회 (예정)
+ * 일시 - 2019년 2월 4일(화), 19시-21시 00분 
+
+* 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
+
+* 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
+
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김병건](https://github.com/skysign), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [김진환](https://github.com/jhk0530), [신현석](https://github.com/shinhseok)
+
+* 발표 내용:
+    
+    + [이진호](https://github.com/jinholeetopology): shiny 에서 PostgreSQL 활용 방법(2)
+    
+    + [이창선](https://github.com/csleekorea): 스마트 리포팅 소프트웨어 개발
+
+    + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
+   
+    
 ## 12회 (예정)
  * 일시 - 2019년 1월 6일(월), 19시-21시 00분 
 
@@ -17,8 +35,6 @@ Shinykorea Meetup
     + [이창선](https://github.com/csleekorea): 스마트 리포팅 소프트웨어 개발
 
     + [김진섭](https://github.com/csleekorea): [RSelenium 활용팁](https://jinseob2kim.github.io/LectureRpackage/RSelenium)
-    
-    + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
     
     + [김진환](https://github.com/jhk0530): [Javascript 라이브러리를 shiny에 wrapper 하기](https://github.com/jhk0530/shinyRoughJSbasic/raw/master/shinyroughjs.pptx)
     
