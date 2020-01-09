@@ -28,7 +28,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [이진호](https://github.com/jinholeetopology): shiny 에서 PostgreSQL 활용 방법(2)
+    + [이진호](https://github.com/jinholeetopology): [shiny 에서 PostgreSQL 활용 방법(2)](https://github.com/jinholeetopology/R_shiny)
     
     + [김진섭](https://github.com/csleekorea): [RSelenium 활용팁](https://jinseob2kim.github.io/LectureRpackage/RSelenium)
     
