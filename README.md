@@ -15,6 +15,8 @@ Shinykorea Meetup
     + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
     
     + [탁온식](https://github.com/takos1026): 창업지원사업  
+
+    + [이창선](https://github.com/csleekorea): "스마트 샤이니 플랫폼 개발" 사업 제안 
    
     
 ## 12회
