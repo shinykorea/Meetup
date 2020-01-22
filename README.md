@@ -4,7 +4,7 @@ Shinykorea Meetup
 ## 13회 (예정)
  * 일시 - 2019년 2월 5일(수), 19시-21시 00분 
 
-* 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
+* 장소 - [토즈역삼점](https://m.map.kakao.com/actions/detailMapView?locName=역삼점&urlY=1112212.0&urlX=508028.0): 역삼역 7번 출구
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
 
