@@ -8,11 +8,11 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
 
-* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [김진환](https://github.com/jhk0530), [신현석](https://github.com/shinhseok), [임동조](https://github.com/LDJWJ), [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026) 
+* 참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [김진환](https://github.com/jhk0530), [신현석](https://github.com/shinhseok), [임동조](https://github.com/LDJWJ), [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), [나영준](https://github.com/YoungjunNa) 
 
 * 발표 내용:
 
-    + [강동훈](https://github.com/DonghoonGang):Glove 를 이용한 문장분류기
+    + [강동훈](https://github.com/DonghoonGang): Glove 를 이용한 문장분류기
     
     + [탁온식](https://github.com/takos1026): 창업지원사업  
 
