@@ -1,8 +1,24 @@
 # Meetup
 Shinykorea Meetup 
 
-## 13회 (예정)
- * 일시 - 2019년 2월 5일(수), 19시-21시 00분 
+## 14회 (예정)
+ * 일시 - 2020년 3월 16일(월), 19시-21시 00분 
+
+* 장소 - [토즈역삼점](https://m.map.kakao.com/actions/detailMapView?locName=역삼점&urlY=1112212.0&urlX=508028.0): 역삼역 7번 출구
+
+* 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026) 
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [신현석](https://github.com/shinhseok), [임동조](https://github.com/LDJWJ), [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), [나영준](https://github.com/YoungjunNa) 
+
+* 발표 내용:
+    
+    + [김진섭](https://github.com/jinseob2kim): [TokyoR 81회 밋업 리뷰](https://tokyor.connpass.com/event/141318/)
+
+    + [나영준](https://github.com/YoungjunNa): ggplot palette 패키지 개발
+
+
+## 13회
+ * 일시 - 2020년 2월 5일(수), 19시-21시 00분 
 
 * 장소 - [토즈역삼점](https://m.map.kakao.com/actions/detailMapView?locName=역삼점&urlY=1112212.0&urlX=508028.0): 역삼역 7번 출구
 
@@ -15,10 +31,12 @@ Shinykorea Meetup
     + [탁온식](https://github.com/takos1026): 창업지원사업  
 
     + [이창선](https://github.com/csleekorea): "스마트 샤이니 플랫폼 개발" 사업 제안 
+    
+    + [나영준](https://github.com/YoungjunNa): [LEGO 시리즈별 색상 시각화](http://adatalab.net/r/2020/02/05/lego-waffle.html)
    
     
 ## 12회
- * 일시 - 2019년 1월 6일(월), 19시-21시 00분 
+ * 일시 - 2020년 1월 6일(월), 19시-21시 00분 
 
 * 장소 - [공간더하기](http://www.spaceplus.co.kr/): 강남역 11번 출구
 
