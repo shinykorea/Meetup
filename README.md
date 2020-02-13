@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [김진섭](https://github.com/jinseob2kim): [TokyoR 81회 밋업 리뷰](https://tokyor.connpass.com/event/141318/)
+    + [김진섭](https://github.com/jinseob2kim): [TokyoR 81회 밋업 리뷰](https://blog.zarathu.com/posts/2020-02-11-tokyor81/)
 
     + [나영준](https://github.com/YoungjunNa): [Develop the ggplot2 palette extension package](https://github.com/adatalab/colorhunt)
 
