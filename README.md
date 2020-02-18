@@ -14,7 +14,7 @@ Shinykorea Meetup
     
     + [김진섭](https://github.com/jinseob2kim): [TokyoR 81회 밋업 리뷰](https://blog.zarathu.com/posts/2020-02-11-tokyor81/)
 
-    + [나영준](https://github.com/YoungjunNa): [Develop the ggplot2 palette extension package](https://github.com/adatalab/colorhunt)
+    + [나영준](https://github.com/YoungjunNa): [colorhunt](https://github.com/adatalab/colorhunt) - Hunt the color insight into the color palette.
 
 
 ## 13회
