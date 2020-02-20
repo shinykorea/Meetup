@@ -30,7 +30,7 @@ Shinykorea Meetup
     
     + [탁온식](https://github.com/takos1026): 창업지원사업  
 
-    + [이창선](https://github.com/csleekorea): [스마트 샤이니 플랫폼 사업제안](https://www.youtube.com/playlist?list=PLwHu54p2hna6beLpRPA2Kt4NmQ5YjScWv), [PPT](https://github.com/csleekorea/SmartShinyPlatform)
+    + [이창선](https://github.com/csleekorea): [스마트 샤이니 플랫폼 사업제안](https://www.youtube.com/playlist?list=PLwHu54p2hna6beLpRPA2Kt4NmQ5YjScWv) ([PPT](https://github.com/csleekorea/SmartShinyPlatform))
     
     + [나영준](https://github.com/YoungjunNa): [LEGO 시리즈별 색상 시각화](http://adatalab.net/r/2020/02/05/lego-waffle.html)
    
