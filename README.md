@@ -2,11 +2,10 @@
 Shinykorea Meetup 
 
 ## 14회 (예정)
-* **(코로나19로 인해 연기)**
-* 일시 - ~~2020년 3월 16일(월), 19시-21시 00분~~ 2020년 4월 24일(금), 19-21시
+* **(코로나19로 인해 온라인으로 진행)**
+* 일시 - 2020년 4월 24일(금), 19-21시
 
-* 장소 - ~~[저스트코 저스트코타워점](https://search.naver.com/p/crd/rd?m=1&px=770&py=234&sx=770&sy=75&p=UB2sRdp0J1sssf6HS2CssssssSw-191567&q=%EC%A0%80%EC%8A%A4%ED%8A%B8%EC%BD%94%ED%83%80%EC%9B%8C&ie=utf8&rev=1&ssc=tab.nx.all&f=nexearch&w=nexearch&s=qgArR7hHMYxDoDFNaBUdNw%3D%3D&time=1581088874327&bt=5&a=loc_ipt*f.tit&r=1&i=1494580574&g=mpi%3D09710680%3AqcU_%EC%A0%80%EC%8A%A4%ED%8A%B8%EC%BD%94%ED%83%80%EC%9B%8C&u=https%3A%2F%2Fmap.naver.com%2Flocal%2Fsiteview.nhn%3Fcode%3D1494580574&cr=1) 13층: 선릉역 10번 출구
-zoom 이용 화상으로 진행
+* 장소 - zoom 이용한 온라인 밋업
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
 
