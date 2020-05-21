@@ -2,10 +2,9 @@
 Shinykorea Meetup 
 
 ## 15회 (예정)
-* **(코로나19로 인해 온라인으로 진행)**
 * 일시 - 2020년 5월 22일(금), 19-21시
 
-* 장소 - zoom 이용한 온라인 밋업
+* 장소 - zoom 온라인 or 강남 저스트코타워[https://www.justcoglobal.com/kr/locations/justco-tower] 13층 공개SW개발자센터
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
 
