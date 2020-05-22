@@ -13,7 +13,7 @@ Shinykorea Meetup
 * 발표 내용:
     
     + [이창선](https://github.com/csleekorea): "R 샤이니" 페이스북 그룹 : (https://www.facebook.com/groups/850457028783173)
-    + [김진환](https://github.com/jhk0530) : CRAN 배포 후기
+    + [김진환](https://github.com/jhk0530) : [CRAN 배포 후기](https://github.com/shinykorea/Meetup/raw/master/20200522/shinycyjs.pptx)
     
    
 ## 14회
