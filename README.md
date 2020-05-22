@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 16회(예정)
-* 일시 - 2020년 6월 22일(금), 19-21시
+* 일시 - 2020년 6월 26일(금), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
 
