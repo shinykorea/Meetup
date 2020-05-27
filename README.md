@@ -23,7 +23,7 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [신현석](https://github.com/shinhseok), [임동조](https://github.com/LDJWJ), [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), [김권현](https://github.com/kwhkim), [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530) 
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [신현석](https://github.com/shinhseok), [최재성](https://github.com/dhddldid), [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530) 
 
 * 발표 내용:
     
