@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [신현석](https://github.com/shinhseok)
+    + [신현석](https://github.com/shinhseok) : Shiny custom UI
     + [김진섭](https://github.com/jinseob2kim): 올해 만들었던 Shiny앱 공유
 
 
