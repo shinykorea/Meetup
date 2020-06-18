@@ -4,7 +4,7 @@ Shinykorea Meetup
 ## 16회(예정)
 * 일시 - 2020년 6월 26일(금), 19-21시
 
-* 장소 - zoom 온라인 or [토즈 역삼점]( https://m.map.kakao.com/actions/detailMapView?locName=역삼점&urlY=1112212.0&urlX=508028.0)
+* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
 
 * 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
 
