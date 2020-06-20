@@ -13,7 +13,7 @@ Shinykorea Meetup
 * 발표 내용:
     
     + [신현석](https://github.com/shinhseok) : Shiny custom UI
-    + [김진섭](https://github.com/jinseob2kim): 올해 만들었던 Shiny앱 공유
+    + [김진섭](https://github.com/jinseob2kim): [올해 만들었던 Shiny앱 공유](https://blog.zarathu.com/posts/2020-06-20-shinymed2020/)
 
 
 ## 15회
