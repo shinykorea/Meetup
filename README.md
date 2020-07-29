@@ -13,7 +13,7 @@ Shinykorea Meetup
 * 발표 내용:
     
     + [김권현](https://github.com/kwhkim): R 데이터매니지먼트 팁
-    +  [나영준](https://github.com/YoungjunNa): [reactable](https://glin.github.io/reactable/) 소개
+    + [나영준](https://github.com/YoungjunNa): [reactable 소개](https://github.com/YoungjunNa/presentations/blob/master/reactable-shiny-korea.pdf)
     
 ## 16회
 * 일시 - 2020년 6월 26일(금), 19-21시
