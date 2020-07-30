@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [김권현](https://github.com/kwhkim): R 데이터매니지먼트 팁
+    + [김권현](https://github.com/kwhkim): [데이터 테이블 소개](https://github.com/kwhkim/rshinymeetup17)
     + [나영준](https://github.com/YoungjunNa): [reactable 소개](https://github.com/YoungjunNa/presentations/blob/master/reactable-shiny-korea.pdf)
     
 ## 16회
