@@ -13,7 +13,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + 김철민 : shiny 이용 부동산 GIS 소개
+    + 김철민 : [버스최적노선분석 공모전 내용 공유](https://drive.google.com/file/d/1a4lT3yughQ_tzXpZSWNblX9YrPWDyyrg/view?usp=sharing)
     
 ## 17회
 * 일시 - 2020년 7월 30일(목), 19-21시
