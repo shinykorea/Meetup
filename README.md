@@ -15,7 +15,7 @@ Shinykorea Meetup
     
     + 김철민 : [버스최적노선분석 공모전 내용 공유](https://drive.google.com/file/d/1a4lT3yughQ_tzXpZSWNblX9YrPWDyyrg/view?usp=sharing)
     
-    + [김진섭](https://github.com/jinseob2kim): [메타분석앱](http://app.zarathu.com/meta-analysis/) 개발 후기
+    + [김진섭](https://github.com/jinseob2kim): [메타분석앱](http://app.zarathu.com/meta-analysis/) 개발 후기 ([발표자료](https://jinseob2kim.github.io/PresentationShinyMed/meta-analysis))
     
 ## 17회
 * 일시 - 2020년 7월 30일(목), 19-21시
