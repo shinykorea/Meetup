@@ -28,7 +28,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + 김철민 : [버스최적노선분석 공모전 내용 공유](https://drive.google.com/file/d/1a4lT3yughQ_tzXpZSWNblX9YrPWDyyrg/view?usp=sharing)
+    + 김철민 : [버스최적노선분석 공모전 내용 공유](https://github.com/shinykorea/Meetup/blob/master/20200828/cmman75_%EC%B5%9C%EC%A0%81%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0%EA%B3%BC%EC%A0%9C_KernelSource.ipynb)([전체자료](https://drive.google.com/file/d/1a4lT3yughQ_tzXpZSWNblX9YrPWDyyrg/view?usp=sharing))
     
     + [김진섭](https://github.com/jinseob2kim): [메타분석앱](http://app.zarathu.com/meta-analysis/) 개발 후기 ([발표자료](https://jinseob2kim.github.io/PresentationShinyMed/meta-analysis))
     
