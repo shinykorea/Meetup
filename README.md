@@ -15,8 +15,7 @@ Shinykorea Meetup
     
     + [이창선](https://github.com/csleekorea): 그림 드래그 
     
-    + 김철민
-
+ 
 ## 18회
 * 일시 - 2020년 8월 28일(금), 19-21시
 
