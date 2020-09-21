@@ -14,6 +14,7 @@ Shinykorea Meetup
 * 발표 내용:
     
     + [이창선](https://github.com/csleekorea): 그림 드래그 
+    + [나영준](https://github.com/YoungjunNa): `reactable` 튜토리얼
     
  
 ## 18회
