@@ -1,7 +1,21 @@
 # Meetup
 Shinykorea Meetup 
 
+## 20회(예정)
+* 일시 - 2020년 10월 26일(월), 19-21시
 
+* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/),[코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea),  [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [김가경](https://github.com/irobii), Looni Park, [최재성](https://github.com/dhddldid), 박혜민, 최민철
+
+* 발표 내용:
+    
+    + [이창선](https://github.com/csleekorea): 그림 드래그 
+    + [김진섭](https://github.com/jinseob2kim): [docker r/shiny](https://github.com/jinseob2kim/docker-rshiny) 이미지 소개 
+    
+    
 ## 19회
 * 일시 - 2020년 9월 28일(월), 19-21시
 
