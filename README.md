@@ -27,7 +27,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [이창선](https://github.com/csleekorea): 그림 드래그 
+    + [이창선](https://github.com/csleekorea): 스마트 솔루션 템플릿 코딩(http://naver.me/IMxIgaBt)  
     + [나영준](https://github.com/YoungjunNa): `reactable` 튜토리얼
     
  
