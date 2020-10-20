@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [이창선](https://github.com/ai4ir): [smartSolutionShiny](https://github.com/ai4ir/SmartSolutionShiny.git) 
+    + [이창선](https://github.com/ai4ir): [smartSolutionShiny Repository](https://github.com/ai4ir/SmartSolutionShiny.git), [설명 자료](http://naver.me/xVKNLEBa) 
     + [김진섭](https://github.com/jinseob2kim): [docker r/shiny](https://github.com/jinseob2kim/docker-rshiny) 이미지 소개([발표자료](https://jinseob2kim.github.io/PresentationShinyMed/docker-rshiny)) 
     
     
