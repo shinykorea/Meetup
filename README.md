@@ -12,6 +12,8 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/ai4ir),[나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), 정경창, [김권현](https://github.com/kwhkim), [탁온식](https://github.com/takos1026)
 
 * 발표 내용:
+    + [정이태]: 텍스트마이닝을 활용한 트럼프 바이든과 epu(불완
+   
     
    
     
