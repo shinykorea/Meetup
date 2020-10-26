@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 
-## 21회
+## 21회 (예정)
 * 일시 - 2020년 11월 30일(월), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
@@ -13,8 +13,7 @@ Shinykorea Meetup
 
 * 발표 내용:
     
-    + [이창선](https://github.com/ai4ir): [smartSolutionShiny Repository](https://github.com/ai4ir/SmartSolutionShiny.git), [설명 자료](http://naver.me/xVKNLEBa) 
-    + [김진섭](https://github.com/jinseob2kim): [docker r/shiny](https://github.com/jinseob2kim/docker-rshiny) 이미지 소개([발표자료](https://jinseob2kim.github.io/PresentationShinyMed/docker-rshiny)) 
+   
     
 ## 20회
 * 일시 - 2020년 10월 26일(월), 19-21시
