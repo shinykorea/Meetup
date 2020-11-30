@@ -1,8 +1,19 @@
 # Meetup
 Shinykorea Meetup 
 
+## 22회 (예정)
+* 일시 - 2021년 1월 4일(월), 19-21시
 
-## 21회 (예정)
+* 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
+
+* 후원 - [차라투(주)](https://www.zarathu.com/),[코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/ai4ir),[나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), 정경창, [김권현](https://github.com/kwhkim), [탁온식](https://github.com/takos1026)
+
+* 발표 내용:
+    
+
+## 21회 
 * 일시 - 2020년 11월 30일(월), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
@@ -14,7 +25,7 @@ Shinykorea Meetup
 * 발표 내용:
     + [김진환](https://github.com/jhk0530): 대시보드
     + [탁온식](https://github.com/takos1026): [bs4Dash 패키지 소개](https://github.com/takos1026/test_bs4dash)
-    + [정이태]: 텍스트마이닝을 활용한 트럼프 바이든과 epu(불완
+    + [정이태](): 텍스트마이닝을 활용한 트럼프 바이든과
    
     
    
