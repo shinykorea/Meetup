@@ -26,7 +26,7 @@ Shinykorea Meetup
 * 발표 내용:
     + [김진환](https://github.com/jhk0530): [Codestates 수강생 데이터 분석](20201130/myActionR2.pdf)
     + [탁온식](https://github.com/takos1026): [bs4Dash 패키지 소개](https://github.com/takos1026/test_bs4dash)
-    + [정이태](https://github.com/tteon): [review_ The Impact of DonaldTrump's Tweets on Finanical Markets](20201130/R샤이니컨퍼런스_정이태.pptx)
+    + [정이태](https://github.com/tteon): [review_ The Impact of DonaldTrump's Tweets on Finanical Markets](https://github.com/shinykorea/Meetup/blob/master/20201130/R%EC%83%A4%EC%9D%B4%EB%8B%88%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%A0%95%EC%9D%B4%ED%83%9C.pptx?raw=true)
     
 ## 20회
 * 일시 - 2020년 10월 26일(월), 19-21시
