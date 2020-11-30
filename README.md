@@ -11,6 +11,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/ai4ir),[나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), 정경창, [김권현](https://github.com/kwhkim), [탁온식](https://github.com/takos1026)
 
 * 발표 내용:
+     + 김철민 : [SH 공사 협력 부동산데이터 분석]
     
 
 ## 21회 
