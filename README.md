@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 김철민 : [SH 공사 협력 부동산데이터 분석]()
-     + 최의용 : [Dacon: 공간정보 탐색적 데이터 분석 경진대회](https://shjj08.shinyapps.io/dacon_jeju/)
+     + [최의용](https://github.com/Unfinishedgod) : [Dacon: 공간정보 탐색적 데이터 분석 경진대회](https://shjj08.shinyapps.io/dacon_jeju/)
      
     
 
