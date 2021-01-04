@@ -25,7 +25,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 김철민 : [SH 공사 협력 부동산데이터 분석](https://github.com/shinykorea/Meetup/blob/master/20210104/210104_%EC%A3%BC%ED%83%9D%ED%95%98%EC%9C%84%EC%8B%9C%EC%9E%A5%ED%94%8C%EB%9E%AB%ED%8F%BC(%EA%B9%80%EC%B2%A0%EB%AF%BC).pdf)
-     + [최의용](https://github.com/Unfinishedgod) : [Dacon: 공간정보 탐색적 데이터 분석 경진대회](https://shjj08.shinyapps.io/dacon_jeju/)
+     + [최의용](https://github.com/Unfinishedgod) : [Dacon: 공간정보 탐색적 데이터 분석 경진대회](https://github.com/Unfinishedgod/dacon_jeju)
      
     
 
