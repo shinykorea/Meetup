@@ -1,7 +1,20 @@
 # Meetup
 Shinykorea Meetup 
 
-## 22회 (예정)
+## 23회 (예정)
+* 일시 - 2021년 2월 8일(월), 19-21시
+
+* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), 김철민, [최의용](https://github.com/Unfinishedgod)
+
+* 발표 내용:
+
+     
+     
+## 22회
 * 일시 - 2021년 1월 4일(월), 19-21시
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
@@ -11,7 +24,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), 김철민, [최의용](https://github.com/Unfinishedgod)
 
 * 발표 내용:
-     + 김철민 : [SH 공사 협력 부동산데이터 분석]()
+     + 김철민 : [SH 공사 협력 부동산데이터 분석](https://github.com/shinykorea/Meetup/blob/master/20210104/210104_%EC%A3%BC%ED%83%9D%ED%95%98%EC%9C%84%EC%8B%9C%EC%9E%A5%ED%94%8C%EB%9E%AB%ED%8F%BC(%EA%B9%80%EC%B2%A0%EB%AF%BC).pdf)
      + [최의용](https://github.com/Unfinishedgod) : [Dacon: 공간정보 탐색적 데이터 분석 경진대회](https://shjj08.shinyapps.io/dacon_jeju/)
      
     
