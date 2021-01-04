@@ -11,6 +11,8 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), 김철민, [최의용](https://github.com/Unfinishedgod)
 
 * 발표 내용:
+     + [김진섭](https://github.com/jinseob2kim): Shiny
+     + [이준혁]
 
      
      
