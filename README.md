@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [나영준](https://github.com/YoungjunNa)
-     + [이상열](https://github.com/syleeie2310)
+     + [이상열](https://github.com/syleeie2310): Anomaly detection with R
 
 
 ## 23회 
