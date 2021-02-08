@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [김진섭](https://github.com/jinseob2kim): [서울시 코로나 수리모델링](https://blog.zarathu.com/posts/2021-01-22-covidmodel-seoul/) 
-     + [이준혁](https://github.com/Poohj): 커머스 데이터 분석
+     + [이준혁](https://github.com/Poohj): 커머스 환경에서 데이터 분석하기
 
      
      
