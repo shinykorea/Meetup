@@ -1,7 +1,21 @@
 # Meetup
 Shinykorea Meetup 
 
-## 23회 (예정)
+## 24회 (예정)
+* 일시 - 2021년 3월 8일(월), 19-21시
+
+* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), 김철민, [최의용](https://github.com/Unfinishedgod)
+
+* 발표 내용:
+     + [김진섭](https://github.com/jinseob2kim): [서울시 코로나 수리모델링](https://blog.zarathu.com/posts/2021-01-22-covidmodel-seoul/) 
+     + [이준혁](https://github.com/Poohj): 커머스 환경에서 데이터 분석하기
+
+
+## 23회 
 * 일시 - 2021년 2월 8일(월), 19-21시
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
