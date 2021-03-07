@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [나영준](https://github.com/YoungjunNa): 공공데이터활용 경진대회 및 예비창업패키지 후기
-     + [이상열](https://github.com/syleeie2310): [Anomaly detection with R[(https://github.com/shinykorea/Meetup/blob/master/20210308/Anomaly%20Detection%20in%20R_%EC%82%AC%EB%A1%80%20%EC%97%B0%EA%B5%AC.pdf)
+     + [이상열](https://github.com/syleeie2310): [Anomaly detection with R](https://github.com/shinykorea/Meetup/blob/master/20210308/Anomaly%20Detection%20in%20R_%EC%82%AC%EB%A1%80%20%EC%97%B0%EA%B5%AC.pdf)
 
 
 ## 23회 
