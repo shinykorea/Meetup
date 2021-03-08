@@ -12,6 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발중]
+     + 최호선: 기업
      
 
 ## 24회
