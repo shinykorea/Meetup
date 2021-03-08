@@ -11,6 +11,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [정이태](https://github.com/tteon), [탁온식](https://github.com/takos1026), [이상열](https://github.com/syleeie2310), [김권현](https://github.com/kwhkim), 옥성욱, 이동권, 문우영
 
 * 발표 내용:
+     + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발중]
      
 
 ## 24회
