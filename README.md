@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea/)
-     + 최호선: 기업 활동성 지수(Actitivy Index) 개발
+     + [최호선](https://github.com/Hosun-Choi): [기업 활동성 지수(Actitivy Index) 개발](https://github.com/Hosun-Choi/KED/blob/master/Activity%20Index_210404_rev3.pdf)
      
 
 ## 24회
