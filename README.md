@@ -1,14 +1,28 @@
 # Meetup
 Shinykorea Meetup 
 
-## 25회 (예정)
+## 26회(
+* 일시 - 2021년 5월 4일(화), 19-21시
+
+* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+
+* 후원 - [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj)
+
+* 발표 내용:
+     + 이동권: 
+     + 김철민: 
+
+
+## 25회
 * 일시 - 2021년 4월 5일(월), 19-21시
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
 
 * 후원 - [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [정이태](https://github.com/tteon), [탁온식](https://github.com/takos1026), [이상열](https://github.com/syleeie2310), [김권현](https://github.com/kwhkim), 옥성욱, 이동권, 문우영
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj)
 
 * 발표 내용:
      + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea/)
