@@ -1,7 +1,7 @@
 # Meetup
 Shinykorea Meetup 
 
-## 26회(예
+## 26회(예정)
 * 일시 - 2021년 5월 4일(화), 19-21시
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
@@ -30,7 +30,7 @@ Shinykorea Meetup
      
 
 ## 24회
-* 일시 - 2021년 3월 8일(월), 19-21시
+* 일시 - 2021년 3월 8일(월), 19-21시 
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
 
