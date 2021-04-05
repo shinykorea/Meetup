@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 이동권: 
-     + 김철민: 
+     + 김철민: mapdedit 활용한 아파트 실거래가 분석
 
 
 ## 25회
