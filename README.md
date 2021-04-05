@@ -11,7 +11,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj)
 
 * 발표 내용:
-     + 이동권: 
+     + 이동권: shiny leaflet 활용한 의료 입지분석 플랫폼 개발기
      + 김철민: mapdedit 활용한 아파트 실거래가 분석
 
 
