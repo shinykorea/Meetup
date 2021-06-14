@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 28회 (예정)
-* 일시 - 2021년 6월 14일(월), 19-21시
+* 일시 - 2021년 7월 19일(월), 19-21시
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
 
@@ -11,7 +11,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj), 이현기
 
 * 발표 내용:
-     + 문우영: Shiny 개발환경, html, 네이버/카카오 지도연결 팁
+     + 김진섭: 창업지원사업 선정 후기
 
 ## 27회
 * 일시 - 2021년 6월 14일(월), 19-21시
