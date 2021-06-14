@@ -23,7 +23,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 문우영,  박은혜, 이창선, 김권현, 이동권, 홍지영, 조재형, 정이태  
 
 * 발표 내용:
-     + 문우영: Shiny 개발환경, html, 네이버/카카오 지도연결 팁
+     + 문우영: [Shiny 개발환경, html, 네이버/카카오 지도연결 팁](https://github.com/bluetsys/shiny-korea/raw/main/shinykorea.pptx), https://github.com/bluetsys/shiny-korea
 
 
 ## 26회
