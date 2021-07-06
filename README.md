@@ -4,7 +4,8 @@ Shinykorea Meetup
 ## 28회 (예정)
 * 일시 - 2021년 7월 13일(화), 19-21시
 
-* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+* 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층
+
 
 * 후원 - [차라투(주)](https://www.zarathu.com/)
 
