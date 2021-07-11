@@ -12,7 +12,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj), 이현기
 
 * 발표 내용:
-     + 김진섭: 창업지원사업 선정 후기
+     + 김진섭: [창업지원사업 도전기](https://blog.zarathu.com/posts/2021-07-11-kstartup/)
      + 김권현: [파일 입출력(기초에서 응용까지: 텍스트 화일, 이진 화일, 그리고 압축 화일)](https://github.com/kwhkim/R_ImportData)
 
 ## 27회
