@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 29회 (예정)
-* 일시 - 2021년 8월 16일(월), 19-21시
+* 일시 - 2021년 8월 17일(화), 19-21시
 
 * 장소 - zoom 온라인 
 
@@ -12,6 +12,8 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj), 이창선, 김가연
 
 * 발표 내용:
+     + 송지현:
+     
  
      
 ## 28회 
@@ -22,7 +24,7 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj), 이창선, 김가연
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 문우영, [김가경](https://github.com/irobii), 이창선, 김가연, 임창우, 고현준, 김판준, 정영화, 송지현, 최호선 
 
 * 발표 내용:
      + 김진섭: [창업지원사업 도전기](https://blog.zarathu.com/posts/2021-07-11-kstartup/)
