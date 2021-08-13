@@ -12,7 +12,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj), 이창선, 김가연
 
 * 발표 내용:
-     + 송지현:
+     + 송지현: 밸류투알파리서치랩 소개
      
  
      
