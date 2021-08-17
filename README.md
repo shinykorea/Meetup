@@ -1,7 +1,21 @@
 # Meetup
 Shinykorea Meetup 
 
-## 29회 (예정)
+## 30회(예정)
+* 일시 - 2021년 9월 7일(화), 19-21시
+
+* 장소 - zoom 온라인 
+
+
+* 후원 - [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 김권현
+
+* 발표 내용:
+     + 문우영: 
+     + 고현준: [ShinyProxy Google auth 후기](https://blog.zarathu.com/posts/2021-07-25-googleauth/)
+     
+## 29회
 * 일시 - 2021년 8월 17일(화), 19-21시
 
 * 장소 - zoom 온라인 
@@ -9,7 +23,7 @@ Shinykorea Meetup
 
 * 후원 - [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [정이태](https://github.com/tteon),  옥성욱, 문우영, [김가경](https://github.com/irobii), 김철민, [이준혁](https://github.com/Poohj), 이창선, 김가연
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 김권현
 
 * 발표 내용:
      + 송지현: 밸류투알파리서치랩 소개
