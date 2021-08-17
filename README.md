@@ -12,7 +12,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 김권현
 
 * 발표 내용:
-     + 문우영: 
+     + 문우영: GPS 이용한 대용량 데이터 처리
      + 고현준: [ShinyProxy Google auth 후기](https://blog.zarathu.com/posts/2021-07-25-googleauth/)
      
 ## 29회
