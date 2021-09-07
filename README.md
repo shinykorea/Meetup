@@ -1,8 +1,8 @@
 # Meetup
 Shinykorea Meetup 
 
-## 30회(예정)
-* 일시 - 2021년 9월 7일(화), 19-21시
+## 31회(예정)
+* 일시 - 2021년 10월 13일(수), 19-21시
 
 * 장소 - zoom 온라인 
 
@@ -10,6 +10,21 @@ Shinykorea Meetup
 * 후원 - [차라투(주)](https://www.zarathu.com/)
 
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 김권현
+
+* 발표 내용:
+     + 문우영: GPS 이용한 대용량 데이터 처리
+     + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발](https://github.com/zarathucorp/eCRF-SMCcath)
+
+
+## 30회
+* 일시 - 2021년 9월 7일(화), 19-21시
+
+* 장소 - zoom 온라인 
+
+
+* 후원 - [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  고현준, 송지현, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 김권현, 이동권
 
 * 발표 내용:
      + 문우영: GPS 이용한 대용량 데이터 처리
