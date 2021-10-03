@@ -13,7 +13,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 문우영: GPS 이용한 대용량 데이터 처리
-     + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발](https://github.com/zarathucorp/eCRF-SMCcath)
+     + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea2/)
 
 
 ## 30회
