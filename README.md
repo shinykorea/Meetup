@@ -2,17 +2,18 @@
 Shinykorea Meetup 
 
 ## 31회(예정)
-* 일시 - 2021년 11월 15일(월), 19-21시
+* 일시 - 2021년 11월 3일(수), 19-21시
 
 * 장소 - zoom 온라인 
 
 
 * 후원 - [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 김권현
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
 
 * 발표 내용:
-     + [김진섭](https://github.com/jinseob2kim): [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea2/)
+     + 이창선: 
+     + 한중일 커뮤니티 운영 논의
       
 
 ## 31회
