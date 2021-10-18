@@ -12,7 +12,6 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
 
 * 발표 내용:
-     + 이창선: 
      + 한중일 커뮤니티 운영 논의
       
 
