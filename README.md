@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 31회(예정)
-* 일시 - 2021년 11월 3일(수), 19-21시
+* 일시 - 2021년 11월 24일(수), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
 
@@ -13,6 +13,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 한중일 커뮤니티 운영 논의
+     + 이창선 : R  샤이니 기반 제조업 융합솔루션 개발과 활용
       
 
 ## 31회
