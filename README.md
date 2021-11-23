@@ -7,12 +7,12 @@ Shinykorea Meetup
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
 
 
-* 후원 - [차라투(주)](https://www.zarathu.com/)
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
 
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
 
 * 발표 내용:
-     + 한중일 커뮤니티 운영 논의
+     + 한‧중‧일 공개SW 협력 프로젝트 운영 논의
      + 이창선 : R  샤이니 기반 제조업 융합솔루션 개발과 활용
       
 
@@ -22,7 +22,7 @@ Shinykorea Meetup
 * 장소 - zoom 온라인 
 
 
-* 후원 - [차라투(주)](https://www.zarathu.com/)
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)  
 
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),, [김가경](https://github.com/irobii), 최호선, 장성호, 송지현, 이동권, 이창선
 
