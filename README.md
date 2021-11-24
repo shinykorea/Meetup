@@ -25,7 +25,7 @@ Shinykorea Meetup
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 장성호, 이창선, 옥성욱, 김진환
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 장성호, 이창선, 옥성욱, 김진환, 배채겸
 
 * 발표 내용:
      + 한‧중‧일 공개SW 협력 프로젝트 운영 논의
