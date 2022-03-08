@@ -3,7 +3,7 @@ Shinykorea Meetup
 
 
 ## 33회(예정)
-* 일시 - 2021년 12월 15일(수), 19-21시
+* 일시 - 2022년 3월 16일(수), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
 
