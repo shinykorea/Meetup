@@ -12,9 +12,7 @@ Shinykorea Meetup
 
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
 
-* 발표 내용:
-     + 한‧중‧일 공개SW 협력 프로젝트 운영 논의
-     + 이창선 : R  샤이니 기반 제조업 융합솔루션 개발과 활용
+* 발표 내용: 근황공유
 
 
 ## 32회 
