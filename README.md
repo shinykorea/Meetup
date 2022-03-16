@@ -1,8 +1,20 @@
 # Meetup
 Shinykorea Meetup 
 
+## 34회
+* 일시 - 2022년 4월 16일(수), 19-21시
 
-## 33회(예정)
+* 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
+
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
+
+* 발표 내용: [김진섭](https://github.com/jinseob2kim): 근황 공유
+           [김철민](): 저술도서 소개 
+
+## 33회
 * 일시 - 2022년 3월 16일(수), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
