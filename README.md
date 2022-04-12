@@ -11,7 +11,7 @@ Shinykorea Meetup
 
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
 
-* 발표 내용: [김진섭](https://github.com/jinseob2kim): 근황 공유
+* 발표 내용: [김진섭](https://github.com/jinseob2kim): [22년 지원사업 선정, 탈락 후기](https://blog.zarathu.com/posts/2022-04-12-status2022/)
            [김철민](): 저술도서 소개 
 
 ## 33회
