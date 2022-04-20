@@ -13,6 +13,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [김진섭](https://github.com/jinseob2kim): [22년 지원사업 선정, 탈락 후기](https://blog.zarathu.com/posts/2022-04-12-status2022/)
+     + [나영준](https://github.com/youngjunna): 메탄도 줄이고 자원낭비도 줄이는 한우 공공데이터
     
       
 
