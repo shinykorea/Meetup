@@ -1,7 +1,22 @@
 # Meetup
 Shinykorea Meetup 
 
-## 34회(예정)
+
+## 35회(예정)
+* 일시 - 2022년 5월 18일(수), 19-21시
+
+* 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
+
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 이창선, 김철민, 조호연, 탁온식
+
+* 발표 내용:
+     + 김철민: Shiny 교과서 제작 후기
+
+
+## 34회
 * 일시 - 2022년 4월 20일(수), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
@@ -9,7 +24,7 @@ Shinykorea Meetup
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 최호선, 조재형, 송지현, 이창선
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 이창선, 김철민, 조호연, 탁온식
 
 * 발표 내용:
      + [김진섭](https://github.com/jinseob2kim): [22년 지원사업 선정, 탈락 후기](https://blog.zarathu.com/posts/2022-04-12-status2022/)
