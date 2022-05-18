@@ -2,7 +2,21 @@
 Shinykorea Meetup 
 
 
-## 35회(예정)
+## 36회
+* 일시 - 2022년 6월 15일(수), 19-21시
+
+* 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
+
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김철민, 조호연, 안애리
+
+* 발표 내용:
+     + 
+
+
+## 35회
 * 일시 - 2022년 5월 18일(수), 19-21시
 
 * 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터  
@@ -10,7 +24,7 @@ Shinykorea Meetup
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 이창선, 김철민, 조호연, 탁온식
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김철민, 조호연, 안애리
 
 * 발표 내용:
      + 김철민: Shiny 교과서 제작 후기
