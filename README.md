@@ -13,7 +13,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김철민, 조호연, 안애리
 
 * 발표 내용:
-     + 
+     + 조호연: {golem} 소개 및 데모
 
 
 ## 35회
