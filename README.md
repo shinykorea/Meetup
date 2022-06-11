@@ -14,7 +14,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 조호연: {golem} 소개 및 데모
-     + [김진섭](https://github.com/jinseob2kim): [R 대학원강의 후기:성균관대학교 바이오헬스규제과학과](https://github.com/jinseob2kim/R-skku-biohrs) 
+     + [김진섭](https://github.com/jinseob2kim): [R 대학원강의 후기- 성균관대학교 바이오헬스규제과학과](https://github.com/jinseob2kim/R-skku-biohrs) 
 
 
 ## 35회
