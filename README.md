@@ -13,7 +13,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김철민, 조호연, 안애리
 
 * 발표 내용:
-     + 조호연: {golem} 소개 및 데모
+     + 조호연: [{golem} 소개 및 데모](https://github.com/shinykorea/Meetup/blob/master/20210308/20220615%20Shiny%20Korea%20meet-up%20%7Bgolem%7D.pdf)
      + [김진섭](https://github.com/jinseob2kim): [R 대학원강의 후기- 성균관대학교 바이오헬스규제과학과](https://github.com/jinseob2kim/R-skku-biohrs) 
 
 
