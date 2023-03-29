@@ -4,7 +4,7 @@ Shinykorea Meetup
 ## 37회
 * 일시 - 2023년 4월 11일(화), 19-21시
 
-* 장소 - zoom 온라인 or 오프라인 미정
+* 장소 - zoom 온라인 or [토즈 삼성점](https://map.naver.com/v5/search/%ED%86%A0%EC%A6%88%20%EC%82%BC%EC%84%B1%EC%A0%90/place/13442313?placePath=%3Fentry=pll%26from=nx%26fromNxList=true&c=15,0,0,0,dh)
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
 
