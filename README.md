@@ -1,6 +1,28 @@
 # Meetup
 Shinykorea Meetup 
 
+## 37회
+* 일시 - 2023년 4월 11일(화), 19-21시
+
+* 장소 - zoom 온라인 or 오프라인 미정
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김철민, 김진환 
+
+* 발표 내용:
+     + 김철민: 3D GIS Visualization with shiny
+     + 김진환: [Creating Standalone Apps from Shiny with Electron](https://www-r--bloggers-com.cdn.ampproject.org/c/s/www.r-bloggers.com/2023/03/creating-standalone-apps-from-shiny-with-electron-2023-macos-m1/amp/) 
+     
+     
+## 운영자 모임
+* 일시 - 2023년 3월 16일(목) 19-21시
+
+* 장소 - 신촌
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김진환  
+
+* 내용: 2023년 Shiny Korea 활동계획 논의
 
 ## 36회
 * 일시 - 2022년 6월 15일(수), 19-21시
