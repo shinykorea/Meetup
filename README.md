@@ -2,7 +2,7 @@
 Shinykorea Meetup 
 
 ## 37회
-* 일시 - 2023년 4월 11일(화), 19-21시
+* 일시 - 2023년 4월 11일(화), 18시30분-21시
 
 * 장소 - zoom 온라인 or [토즈 삼성점](https://map.naver.com/v5/search/%ED%86%A0%EC%A6%88%20%EC%82%BC%EC%84%B1%EC%A0%90/place/13442313?placePath=%3Fentry=pll%26from=nx%26fromNxList=true&c=15,0,0,0,dh)
 
