@@ -8,7 +8,7 @@ Shinykorea Meetup
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 정우준
 
 * 발표 내용:
      + 김철민: [3D GIS Visualization with shiny](https://github.com/cmman75/Lecture/blob/main/2304_3D%EC%A7%80%EB%8F%84_%EB%A7%8C%EB%93%A4%EA%B8%B0/2304_R%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C_3D%EC%A7%80%EB%8F%84.pdf)
