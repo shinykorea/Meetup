@@ -1,6 +1,20 @@
 # Meetup
 Shinykorea Meetup 
 
+## 38회 (예정)
+* 일시 - 2023년 5월 16일(화), 18시30분-21시
+
+* 장소 - zoom 온라인 or [서울 강남구 역삼동 804]
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 정우준
+
+* 발표 내용:
+     + 나영준: 
+     + 손동욱: 
+     
+     
 ## 37회
 * 일시 - 2023년 4월 11일(화), 18시30분-21시
 
