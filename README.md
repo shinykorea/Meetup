@@ -12,7 +12,7 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 김철민: [3D GIS Visualization with shiny](https://github.com/cmman75/Lecture/blob/main/2304_3D%EC%A7%80%EB%8F%84_%EB%A7%8C%EB%93%A4%EA%B8%B0/2304_R%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C_3D%EC%A7%80%EB%8F%84.pdf)
-     + 김진환: [Creating Standalone Apps from Shiny with Electron](https://www-r--bloggers-com.cdn.ampproject.org/c/s/www.r-bloggers.com/2023/03/creating-standalone-apps-from-shiny-with-electron-2023-macos-m1/amp/) 
+     + 김진환: [Creating Standalone Apps from Shiny with Electron](https://www-r--bloggers-com.cdn.ampproject.org/c/s/www.r-bloggers.com/2023/03/creating-standalone-apps-from-shiny-with-electron-2023-macos-m1/amp/), [슬라이드](https://github.com/shinykorea/Meetup/blob/master/20230411/shiny-exe.pdf)
      
      
 ## 운영자 모임
