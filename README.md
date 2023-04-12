@@ -12,6 +12,8 @@ Shinykorea Meetup
 
 * 발표 내용:
      + 나영준: 
+          + 데이터 기반 뉴스레터를 꾸준히 발행했을 때 생기는 일들 (https://newso.co.kr)
+          + (하나 더..?) [행안부 지방행정 인허가데이터](https://www.localdata.go.kr/main.do)를 이용한 전국 [한우농장 위치 정보 시각화](https://antller.com/farmgis/hanwoo)
      + 손동욱: 
      
      
