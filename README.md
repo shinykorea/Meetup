@@ -8,13 +8,14 @@ Shinykorea Meetup
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 정우준
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연
 
 * 발표 내용:
-     + 나영준: 
+     + [나영준](https://github.com/YoungjunNa): 
           + 데이터 기반 뉴스레터를 꾸준히 발행했을 때 생기는 일들 (https://newso.co.kr)
           + (하나 더..?) [행안부 지방행정 인허가데이터](https://www.localdata.go.kr/main.do)를 이용한 전국 [한우농장 위치 정보 시각화](https://antller.com/farmgis/hanwoo)
-     + 손동욱: 
+     + [김진섭](https://github.com/jinseob2kim)
+          + 23년 R&D 선정 후기(창업성장기술 디딤돌, NIPA 2023년 공개SW 기술확산 지원사업, 보건복지부 가상환자·가상병원 기반 의료기술개발사업)
      
      
 ## 37회
