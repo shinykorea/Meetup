@@ -1,8 +1,8 @@
 # Meetup
 Shinykorea Meetup 
 
-## 38회 (예정)
-* 일시 - 2023년 5월 16일(화), 18시30분-21시
+## 39회(예정)
+* 일시 - 2023년 6월 13일(화), 18시30분-21시
 
 * 장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
 
@@ -14,6 +14,21 @@ Shinykorea Meetup
      + [나영준](https://github.com/YoungjunNa): 
           + 데이터 기반 뉴스레터를 꾸준히 발행했을 때 생기는 일들 (https://newso.co.kr)
           + (하나 더..?) [행안부 지방행정 인허가데이터](https://www.localdata.go.kr/main.do)를 이용한 전국 [한우농장 위치 정보 시각화](https://antller.com/farmgis/hanwoo)
+     + [김영호](https://github.com/thisis05)
+          + Shiny 설문조사웹 개발 후기
+          
+## 38회
+* 일시 - 2023년 5월 16일(화), 18시30분-21시
+
+* 장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim), [김진환](https://github.com/jhk0530), 문우영, 조호연, 안애리, 이창선, 조재형
+
+* 발표 내용:
+     + 이창선: 
+          + DUI 인터페이스 소개
      + [김진섭](https://github.com/jinseob2kim)
           + 23년 R&D 선정 후기(창업성장기술 디딤돌, NIPA 2023년 공개SW 기술확산 지원사업, 보건복지부 가상환자·가상병원 기반 의료기술개발사업)
      
