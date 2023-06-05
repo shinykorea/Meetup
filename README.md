@@ -8,13 +8,13 @@ Shinykorea Meetup
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선, [김영호](https://github.com/thisis05)
 
 * 발표 내용:
      + [나영준](https://github.com/YoungjunNa): 
           + 데이터 기반 뉴스레터를 꾸준히 발행했을 때 생기는 일들 (https://newso.co.kr)  
      + [김영호](https://github.com/thisis05)
-          + Shiny 설문조사웹 개발 후기
+          + Shiny 설문조사웹 개발 후기 [발표자료](https://thisis05.github.io/R_qmd/survey_dashboard/)
           
 ## 38회
 * 일시 - 2023년 5월 16일(화), 18시30분-21시
