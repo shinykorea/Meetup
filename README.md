@@ -1,4 +1,4 @@
-# Meetup
+ㅔ지원# Meetup
 Shinykorea Meetup 
 
 ## 40회(예정)
@@ -12,7 +12,9 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [문우영](https://github.com/YoungjunNa): 
-          + SEO  
+          + SEO
+
+     + [김진섭](https://github.com/jinseob2kim): [NEJM, Lancet, JAMA 저널 통계지원 후기](https://jinseob2kim.github.io/lecture-general/KSIC2023/)
       
           
 ## 39회
