@@ -1,4 +1,4 @@
-ㅔ지원# Meetup
+# Meetup
 Shinykorea Meetup 
 
 ## 40회(예정)
