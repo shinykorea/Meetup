@@ -12,9 +12,10 @@ Shinykorea Meetup
 
 * 발표 내용:
      + [문우영](https://github.com/YoungjunNa): 
-          + SEO
+          + SEO란 무엇인가? 왜 적용을 해야 하는가~
 
-     + [김진섭](https://github.com/jinseob2kim): [NEJM, Lancet, JAMA 저널 통계지원 후기](https://jinseob2kim.github.io/lecture-general/KSIC2023/)
+     + [김진섭](https://github.com/jinseob2kim):
+          + [NEJM, Lancet, JAMA 저널 통계지원 후기](https://jinseob2kim.github.io/lecture-general/KSIC2023/)
       
           
 ## 39회
