@@ -11,7 +11,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선, [김영호](https://github.com/thisis05)
 
 * 발표 내용:
-     + [김진환](https://github.com/jhk0530): 
+     + [김진환](https://github.com/jhk0530): webR과 github page를 활용한 서버리스 shiny application 구현
           
 
 ## 40회
@@ -24,7 +24,7 @@ Shinykorea Meetup
 * 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선, [김영호](https://github.com/thisis05)
 
 * 발표 내용:
-     + [문우영](https://github.com/YoungjunNa): 
+     + [문우영](https://github.com/bluetsys): 
           + [SEO란 무엇인가? 왜 적용을 해야 하는가~](https://github.com/shinykorea/Meetup/tree/master/20230711/%EB%AC%B8%EC%9A%B0%EC%98%81%20-%20SEO%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%20%EC%99%9C%20%EC%A0%81%EC%9A%A9%EC%9D%84%20%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%EA%B0%80~.pptx)
           + [링크모음](https://github.com/shinykorea/Meetup/tree/master/20230711/%EB%AC%B8%EC%9A%B0%EC%98%81%20-%20%EB%A7%81%ED%81%AC.txt)
 
