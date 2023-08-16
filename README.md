@@ -1,17 +1,32 @@
 # Meetup
 Shinykorea Meetup 
 
-## 41회(예정)
+## 42회(예정)
+* 일시 - 2023년 9월 12일(화), 18시30분-21시
+
+* 장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
+
+* 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
+
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), 문우영, 이창선, 이진호, 이준혁, 김권현
+
+* 발표 내용:
+     + [김진환](https://github.com/jhk0530): webR과 github page를 활용한 서버리스 shiny application 구현
+     + 이준혁: 경영현황 shiny 대시보드소개
+          
+
+## 41회
 * 일시 - 2023년 8월 16일(수), 18시30분-21시
 
 * 장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
 
 * 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
 
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선, [김영호](https://github.com/thisis05)
+* 참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), 문우영, 이창선, 이진호, 이준혁, 김권현
 
 * 발표 내용:
      + [김진환](https://github.com/jhk0530): webR과 github page를 활용한 서버리스 shiny application 구현
+     + 이준혁: 경영현황 shiny 대시보드소개
           
 
 ## 40회
