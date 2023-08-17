@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/showcase.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/previous.html",
+    "items": [
+      "/talks/2019-02-27/index.html",
+      "/talks/2019-01-24/index.html"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+---
+toc: false
+---
+
+## shinydashboard-shinyauthr
+
+> shinydashboard와 shinyauthr를 이용한 로그인기능 구현 예제코드입니다.
+
+[github](https://github.com/shinykorea/shinydashboard-shinyauthr)
+
+## financial statement information visualization
+
+> 재무정보 시각화
+
+[github](https://github.com/shinykorea/shiny_financial_dashboard)
+
+## fresh_example
+
+> fresh package를 이용해 shinydashboard의 css를 손쉽게 만지는 예제입니다.
+
+
+[github](https://github.com/shinykorea/fresh_example)
+
+## covid 대시보드 개발
+
+> G-CoMS 병상운용현황
+
+[github](https://github.com/shinykorea/corona-sickbed)
+
+## corona-triage: Covid-19 중증도 분류
+
+> Covid-19 확진자를 중증도에 따라 분류, 의료자원을 고려한 치료 전략에 도움을 준다.
+
+[github](https://github.com/shinykorea/corona-triage)

@@ -1,0 +1,14 @@
+{
+  "hash": "10186c82903acb1afbd47f9ddb72b3c1",
+  "result": {
+    "markdown": "---\nlisting:\n  contents: talks\n  sort: \"date desc\"\n  type: grid\n  categories: false\n  sort-ui: false\n  filter-ui: false\n  image-height: 300px\npage-layout: full\ntitle-block-banner: false\ntoc: false\nformat: html\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

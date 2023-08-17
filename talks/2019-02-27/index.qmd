@@ -1,0 +1,25 @@
+---
+date: 2019-02-27
+draft: false
+toc: false
+---
+
+2회
+
+일시 - 2019년 2월 27일(수), 19시-21시 30분
+
+장소 - 강남 토즈타워점
+
+후원 - Anpanman
+
+회비 - 15000
+
+참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [이희재](https://github.com/Poohj)
+
+발표 내용
+
+김진섭: From shinyapps to Rpackage
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'https://jinseob2kim.github.io/LectureRpackage/#1'></iframe>
+
+이희재: Shiny Dashbooard 활용 예

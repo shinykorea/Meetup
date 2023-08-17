@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "shinykorea ",
+    "section": "",
+    "text": "shinykorea \n\n📅 다음모임\n\n\n\n\n\n\n\n2023년 10월 17일 화요일. 오후 6시반 ~ 9시\nzoom (온라인) or Garage 강남점 3F (오프라인)\n\n\n\n\n\n\n\n\n\n\n\n\n🤝 후원\nopenup 커뮤니티 지원사업, 차라투, 문우영"
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "shinykorea",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "shinykorea",
+    "section": "",
+    "text": "When you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#다음모임",
+    "href": "index.html#다음모임",
+    "title": "shinykorea",
+    "section": "",
+    "text": "2023년 10월 17일 화요일. 오후 6시반 ~ 9시"
+  },
+  {
+    "objectID": "index.html#후원",
+    "href": "index.html#후원",
+    "title": "shinykorea",
+    "section": "",
+    "text": "openup 커뮤니티 지원사업, 차라투, 문우영"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinykorea는 shiny를 사용하거나 관심 있는 사람들이 모여, 뉴스와 정보를 공유하며 그 과정에서 새로운 기회들을 만들어가는 커뮤니티입니다.\nshiny를 주로 다루지만, R, Quarto, Markdown, 통계, 데이터 분석, 대시보드, 사이드 프로젝트 등의 다양한 주제를 다루며, 입문자부터 전문가까지 다양한 구성원들로 구성되어 있습니다."
+  },
+  {
+    "objectID": "about.html#correction",
+    "href": "about.html#correction",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "1. Correction",
+    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
+  },
+  {
+    "objectID": "about.html#warning",
+    "href": "about.html#warning",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "2. Warning",
+    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
+  },
+  {
+    "objectID": "about.html#temporary-ban",
+    "href": "about.html#temporary-ban",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "3. Temporary Ban",
+    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
+  },
+  {
+    "objectID": "about.html#permanent-ban",
+    "href": "about.html#permanent-ban",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "4. Permanent Ban",
+    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "about.html#서약",
+    "href": "about.html#서약",
+    "title": "shinykorea",
+    "section": "서약",
+    "text": "서약\n우리는 구성원, 기여자 및 리더로서 커뮤니티에 참여하여 연령, 신체 크기, 눈에 보이거나 보이지 않는 장애, 민족성, 성별, 성 정체성과 표현, 경력, 학력, 사회 경제적 지위, 국적, 외모, 인종, 카스트 제도, 피부색, 종교 또는 성적 정체성과 성적 성향에 관계없이 모든 사람을 차별하지 않을 것을 서약한다.\n우리는 개방적이고 친근하며 다양하고 포용적이며 건강한 커뮤니티에 기여하는 방식으로 행동하고 상호작용할 것을 서약한다."
+  },
+  {
+    "objectID": "about.html#표준",
+    "href": "about.html#표준",
+    "title": "shinykorea",
+    "section": "표준",
+    "text": "표준\n커뮤니티의 긍정적인 환경을 위해 기여자가 해야 할 행동은 다음과 같다:\n\n다른 사람들에 대한 친절과 공감 표현\n서로 다른 의견 및 관점, 경험에 대한 존중\n건설적인 피드백을 제공 및 열린 마음으로 수락\n책임을 받아들이고 실수로 인해 영향을 받은 사람들에게 사과하며 경험을 통해 배움\n개인뿐만 아닌 전체 커뮤니티를 위한 최선의 방법에 집중\n\n하지말아야 할 행동은 다음과 같다:\n\n성적인 언어와 이미지 사용, 성적 관심이나 어떤 종류의 접근\n소모적인 논쟁, 모욕적 또는 비하하는 댓글과 개인적 또는 정치적인 공격\n공개적이거나 개인적인 괴롭힘\n동의없는 집주소 또는 이메일 주소 등의 개인 정보의 공개\n부적절한 것으로 간주될 수 있는 다른 행위"
+  },
+  {
+    "objectID": "about.html#집행-책임",
+    "href": "about.html#집행-책임",
+    "title": "shinykorea",
+    "section": "집행 책임",
+    "text": "집행 책임\n커뮤니티 리더는 허용되는 행동의 기준을 명확히 하고 집행할 책임이 있으며 부적절하다고 여겨지는 모든 행동, 위협, 공격 또는 피해에 대해 적절하고 공정한 행동을 취한다.\n프로젝트 유지자는 이 행동 강령을 따르지 않은 댓글, 커밋, 코드, 위키 편집, 이슈와 그 외 다른 기여를 삭제, 수정 또는 거부할 권리와 책임이 있다. 또한, 부적당하거나 험악하거나 공격적이거나 해롭다고 생각하는 다른 행동을 한 기여자를 일시적 또는 영구적으로 퇴장시킬 수 있다.\n커뮤니티 리더는 이 행동 강령을 따르지 않는 댓글, 커밋, 코드, 위키 편집, 이슈와 그 외 다른 기여를 삭제, 수정 또는 거부할 권리와 책임이 있으며, 적절한 경우 중재적 의사결정에 대한 이유를 전달할 것이다."
+  },
+  {
+    "objectID": "about.html#범위",
+    "href": "about.html#범위",
+    "title": "shinykorea",
+    "section": "범위",
+    "text": "범위\n이 행동 강령은 개인이 공개 영역에서 커뮤니티를 공식적으로 대표할 때를 포함하여 모든 커뮤니티 영역에 적용된다. 커뮤니티 대표의 예로 공식 이메일 주소 사용, 공식 소셜 미디어 계정을 통한 게시, 온/오프라인 이벤트에서 임명된 대표자의 활동이 있다."
+  },
+  {
+    "objectID": "about.html#집행",
+    "href": "about.html#집행",
+    "title": "shinykorea",
+    "section": "집행",
+    "text": "집행\n모욕적이거나 괴롭힘 또는 그 외 하지말아야 할 행동을 발견하면 [연락 방법 입력]을 통해 집행 책임이 있는 커뮤니티 리더에게 보고한다. 모든 불만사항은 신속하고 공정하게 검토되고 조사될 것이다.\n커뮤니티 리더는 사건의 보고자의 사생활과 안전을 존중할 의무가 있다."
+  },
+  {
+    "objectID": "about.html#집행-지침",
+    "href": "about.html#집행-지침",
+    "title": "shinykorea",
+    "section": "집행 지침",
+    "text": "집행 지침\n커뮤니티 리더는 행동 강령 위반으로 간주되는 행동에 대한 결과를 결정할 때, 다음의 커뮤니티 영향 지침을 준수한다:\n\n1. 정정\n커뮤니티 영향: 커뮤니티 내 부적절한 언어 사용이나 비전문적인 행동 또는 불쾌함을 주는 행동.\n결과: 커뮤니티 리더가 별도로 위반에 대한 명확성과 부적절함에 대한 이유를 설명하고 서면 경고. 공개 사과를 요청할 수 있다.\n\n\n2. 경고\n커뮤니티 영향: 단일 사고 또는 연속된 행동 위반.\n결과: 지속적인 행동에 대한 결과에 대해 경고. 특정 기간동안 행동 강령을 시행하는 사람들과의 원치 않는 상호작용을 포함한 관련된 사람들과의 상호작용 금지. 소셜 미디어와 같은 외부 채널뿐만 아닌 커뮤니티 공간에서의 상호작용도 금지된다. 이 조항을 위반하면 일시적 혹은 영구적으로 제재로 이어질 수 있다.\n\n\n3. 일시적인 제재\n커뮤니티 영향: 지속적으로 부적절한 행동을 포함한 심각한 커뮤니티 기준 위반.\n결과: 특정 기간동안 커뮤니티와의 어떠한 종류의 상호작용이나 공개적 소통이 일시적 제재. 이 기간동안 행동 강령을 시행하는 사람들과의 원치 않는 상호작용을 포함한 관련된 사람들과의 상호작용 금지. 소셜 미디어와 같은 외부 채널뿐만 아닌 커뮤니티 공간에서의 상호작용도 금지된다. 이 조항을 위반하면 일시적 혹은 영구적으로 제재로 이어질 수 있다.\n\n\n4. 영구 제재\n커뮤니티 영향: 지속적인 부적절한 행동, 개인적인 괴롭힘 또는 개인의 계급에 대한 공격이나 폄하를 포함한 커뮤니티 표준 위반 패턴을 보임.\n결과: 커뮤니티와의 모든 종류의 공개적 교류를 영구적으로 제재."
+  },
+  {
+    "objectID": "about.html#참고",
+    "href": "about.html#참고",
+    "title": "shinykorea",
+    "section": "참고",
+    "text": "참고\n이 행동 강령은 기여자 규약 의 2.1 버전을 변형하였습니다. 그 내용은 https://www.contributor-covenant.org/ko/version/2/1/code-of-conduct.html 에서 확인할 수 있습니다.\n커뮤니티 영향 지침은 Mozilla’s code of conduct enforcement ladder 에서 영감을 얻었습니다.\n이 행동 강령에 관련한 일반적인 질문에 대한 대답은 https://www.contributor-covenant.org/faq를 참고할 수 있습니다. 번역본은 https://www.contributor-covenant.org/translations에서 볼 수 있습니다."
+  },
+  {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinydashboard와 shinyauthr를 이용한 로그인기능 구현 예제코드입니다.\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#shinydashboard-shinyauthr",
+    "href": "showcase.html#shinydashboard-shinyauthr",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinydashboard와 shinyauthr를 이용한 로그인기능 구현 예제코드입니다.\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#financial-statement-information-visualization",
+    "href": "showcase.html#financial-statement-information-visualization",
+    "title": "shinykorea",
+    "section": "financial statement information visualization",
+    "text": "financial statement information visualization\n\n재무정보 시각화\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#fresh_example",
+    "href": "showcase.html#fresh_example",
+    "title": "shinykorea",
+    "section": "fresh_example",
+    "text": "fresh_example\n\nfresh package를 이용해 shinydashboard의 css를 손쉽게 만지는 예제입니다.\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#covid-대시보드-개발",
+    "href": "showcase.html#covid-대시보드-개발",
+    "title": "shinykorea",
+    "section": "covid 대시보드 개발",
+    "text": "covid 대시보드 개발\n\nG-CoMS 병상운용현황\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#corona-triage-covid-19-중증도-분류",
+    "href": "showcase.html#corona-triage-covid-19-중증도-분류",
+    "title": "shinykorea",
+    "section": "corona-triage: Covid-19 중증도 분류",
+    "text": "corona-triage: Covid-19 중증도 분류\n\nCovid-19 확진자를 중증도에 따라 분류, 의료자원을 고려한 치료 전략에 도움을 준다.\n\ngithub"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "previous.html",
+    "href": "previous.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "Feb 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/2019-01-24/index.html",
+    "href": "talks/2019-01-24/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "1회\n일시 - 2019년 1월 24일(목), 19시-21시 30분\n장소 - 강남 토즈타워점\n후원 - Anpanman\n참석자 - 강동훈, 김진섭, 나영준, 이상열\n발표 내용\n나영준: Shiny for animal science\n\n\n강동훈: 해상사고 조난자 수색구조를 위한 표류지점 예측 분석\n이상열: Shiny에서 rhandsontable 사용하기"
+  },
+  {
+    "objectID": "talks/2019-01-24/index.html#회",
+    "href": "talks/2019-01-24/index.html#회",
+    "title": "shinykorea",
+    "section": "",
+    "text": "일시 - 2019년 1월 24일(목), 19시-21시 30분\n장소 - 강남 토즈타워점\n후원 - Anpanman\n참석자 - 강동훈, 김진섭, 나영준, 이상열\n발표 내용\n나영준: Shiny for animal science\n\n\n강동훈: 해상사고 조난자 수색구조를 위한 표류지점 예측 분석\n이상열: Shiny에서 rhandsontable 사용하기"
+  },
+  {
+    "objectID": "talks/2019-02-27/index.html",
+    "href": "talks/2019-02-27/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "2회\n일시 - 2019년 2월 27일(수), 19시-21시 30분\n장소 - 강남 토즈타워점\n후원 - Anpanman\n회비 - 15000\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재\n발표 내용\n김진섭: From shinyapps to Rpackage\n\n\n이희재: Shiny Dashbooard 활용 예"
+  },
+  {
+    "objectID": "talks/2019-02-27/index.html#회",
+    "href": "talks/2019-02-27/index.html#회",
+    "title": "shinykorea",
+    "section": "",
+    "text": "일시 - 2019년 2월 27일(수), 19시-21시 30분\n장소 - 강남 토즈타워점\n후원 - Anpanman\n회비 - 15000\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재\n발표 내용\n김진섭: From shinyapps to Rpackage\n\n\n이희재: Shiny Dashbooard 활용 예"
+  }
+]

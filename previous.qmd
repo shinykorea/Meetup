@@ -1,0 +1,20 @@
+---
+listing:
+  contents: talks
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  image-height: 300px
+page-layout: full
+title-block-banner: false
+toc: false
+format: html
+knitr:
+  opts_chunk: 
+    collapse: true
+execute: 
+  echo: false
+---
+
