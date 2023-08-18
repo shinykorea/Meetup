@@ -172,7 +172,7 @@
     "href": "previous.html",
     "title": "shinykorea",
     "section": "",
-    "text": "Mar 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Jun 20, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/2019-01-24/index.html",
@@ -222,5 +222,26 @@
     "title": "shinykorea",
     "section": "",
     "text": "3회\n일시 - 2019년 3월 27일(수), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석\n발표 내용\n강동훈: api in R - plumber 소개\n\n\n이상열: Shiny + Reticulate + Pyspark 소개"
+  },
+  {
+    "objectID": "talks/2019-04-30/index.html",
+    "href": "talks/2019-04-30/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "4회\n일시 - 2019년 3월 27일(수), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 이희재, 탁온식, 김병건\n발표 내용\n신현석: IPTV 환경에서 데이터 수집 & 대시보드 제작\n\n1st Shiny contest 관심 앱 소개\n\n김진섭: Impact Replays - Relive the CFL (Canadian Football League) Highlights and Play-by-Play\n나영준: The Pasture Potential Tool"
+  },
+  {
+    "objectID": "talks/2019-05-31/index.html",
+    "href": "talks/2019-05-31/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "5회\n일시 - 2019년 5월 31일(금), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 탁온식, 김병건, 이창선, 조재형\n발표 내용\n김진섭: Shiny 활용 의학연구지원 경험 공유 강동훈: 재무정보 시각화 나영준: Shiny app - 새로운 한우 육량등급 시뮬레이터 조재형: AEGIS - OHDSI 기반 공간역학연구 시각화"
+  },
+  {
+    "objectID": "talks/2019-06-20/index.html",
+    "href": "talks/2019-06-20/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "6회\n일시 - 2019년 6월 20일(목), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 탁온식, 김병건, 이창선, 이진호\n발표 내용\n탁온식: 더 나은 주거지역을 찾기 위한 shiny 앱\n이창선: AI auto-reporting"
   }
 ]
