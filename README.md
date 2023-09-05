@@ -299,8 +299,6 @@ Shinykorea Meetup
      + [김진섭](https://github.com/jinseob2kim): [서울시 코로나 수리모델링](https://blog.zarathu.com/posts/2021-01-22-covidmodel-seoul/) 
      + [이준혁](https://github.com/Poohj): 커머스 환경에서 데이터 분석하기
 
-     
-     
 ## 22회
 * 일시 - 2021년 1월 4일(월), 19-21시
 
@@ -314,91 +312,3 @@ Shinykorea Meetup
      + 김철민 : [SH 공사 협력 부동산데이터 분석](https://github.com/shinykorea/Meetup/blob/master/20210104/210104_%EC%A3%BC%ED%83%9D%ED%95%98%EC%9C%84%EC%8B%9C%EC%9E%A5%ED%94%8C%EB%9E%AB%ED%8F%BC(%EA%B9%80%EC%B2%A0%EB%AF%BC).pdf)
      + [최의용](https://github.com/Unfinishedgod) : [Dacon: 공간정보 탐색적 데이터 분석 경진대회](https://github.com/Unfinishedgod/dacon_jeju)
      
-    
-
-## 21회 
-* 일시 - 2020년 11월 30일(월), 19-21시
-
-* 장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
-
-* 후원 - [차라투(주)](https://www.zarathu.com/),[코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
-
-* 참석자 - [김진섭](https://github.com/jinseob2kim), [이창선](https://github.com/ai4ir), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), 정경창, [김권현](https://github.com/kwhkim), [탁온식](https://github.com/takos1026), 김철민
-
-* 발표 내용:
-    + [김진환](https://github.com/jhk0530): [Codestates 수강생 데이터 분석](20201130/myActionR2.pdf)
-    + [탁온식](https://github.com/takos1026): [bs4Dash 패키지 소개](https://github.com/takos1026/test_bs4dash)
-    + [정이태](https://github.com/tteon): [review_ The Impact of DonaldTrump's Tweets on Finanical Markets](https://github.com/shinykorea/Meetup/blob/master/20201130/R%EC%83%A4%EC%9D%B4%EB%8B%88%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%A0%95%EC%9D%B4%ED%83%9C.pptx?raw=true)
-    
-## 20회
-* 일시 - 2020년 10월 26일(월), 19-21시
-
-* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
-
-* 후원 - [차라투(주)](https://www.zarathu.com/),[코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
-
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/ai4ir),[나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), Looni Park, [최재성](https://github.com/dhddldid), 정경창, [김권현](https://github.com/kwhkim), [탁온식](https://github.com/takos1026), 강현욱, 옥성욱
-
-* 발표 내용:
-    
-    + [이창선](https://github.com/ai4ir): [smartSolutionShiny Repository](https://github.com/ai4ir/SmartSolutionShiny.git), [설명 자료](http://naver.me/xVKNLEBa) 
-    + [김진섭](https://github.com/jinseob2kim): [docker r/shiny](https://github.com/jinseob2kim/docker-rshiny) 이미지 소개([발표자료](https://jinseob2kim.github.io/PresentationShinyMed/docker-rshiny)) 
-    
-    
-## 19회
-* 일시 - 2020년 9월 28일(월), 19-21시
-
-* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
-
-* 후원 - [차라투(주)](https://www.zarathu.com/),[코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
-
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea),  [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [김가경](https://github.com/irobii), Looni Park, [최재성](https://github.com/dhddldid), 박혜민, 최민철
-
-* 발표 내용:
-    
-    + [이창선](https://github.com/csleekorea): [스마트 솔루션 템플릿 코딩](http://naver.me/IMxIgaBt)  
-    + [나영준](https://github.com/YoungjunNa): `reactable` 튜토리얼
-    
- 
-## 18회
-* 일시 - 2020년 8월 28일(금), 19-21시
-
-* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
-
-* 후원 - [차라투(주)](https://www.zarathu.com/),[코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
-
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea),  [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [김가경](https://github.com/irobii),  강현욱, 김철민, 최의용, Looni Park
-
-* 발표 내용:
-    
-    + 김철민 : [버스최적노선분석 공모전 내용 공유](https://github.com/shinykorea/Meetup/blob/master/20200828/cmman75_%EC%B5%9C%EC%A0%81%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0%EA%B3%BC%EC%A0%9C_KernelSource.ipynb)([전체자료](https://drive.google.com/file/d/1a4lT3yughQ_tzXpZSWNblX9YrPWDyyrg/view?usp=sharing))
-    
-    + [김진섭](https://github.com/jinseob2kim): [메타분석앱](http://app.zarathu.com/meta-analysis/) 개발 후기 ([발표자료](https://jinseob2kim.github.io/PresentationShinyMed/meta-analysis))
-    
-## 17회
-* 일시 - 2020년 7월 30일(목), 19-21시
-
-* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
-
-* 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
-
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), [김권현](https://github.com/kwhkim), [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [김가경](https://github.com/irobii),  강현욱, 김철민 
-
-* 발표 내용:
-    
-    + [김권현](https://github.com/kwhkim): [데이터 테이블 소개](https://github.com/kwhkim/rshinymeetup17)
-    + [나영준](https://github.com/YoungjunNa): [reactable 소개](https://github.com/YoungjunNa/presentations/blob/master/reactable-shiny-korea.pdf)
-    
-## 16회
-* 일시 - 2020년 6월 26일(금), 19-21시
-
-* 장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
-
-* 후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
-
-* 참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [신현석](https://github.com/shinhseok) [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), [김권현](https://github.com/kwhkim), [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530), [김가경](https://github.com/irobii), 이후선, [위하은](https://github.com/HaeunWee), 강현욱, 김경수 
-
-* 발표 내용:
-    
-    + [신현석](https://github.com/shinhseok) : [Shiny custom UI - Styling Shiny apps with Sass and Bootstrap 4](https://github.com/shinhseok/public/blob/master/shiny_meetup_hshin.pdf)
-    + [김진섭](https://github.com/jinseob2kim): [올해 만들었던 Shiny앱 공유](https://blog.zarathu.com/posts/2020-06-20-shinymed2020/)
