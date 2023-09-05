@@ -1,10 +1,14 @@
-# Meetup
-Shinykorea Meetup 
+---
+date: 2023-05-16
+draft: false
+toc: false
+---
 
-## 42회 (예정)
-* 일시 - 2023년 10월 17일(화), 18시30분-21시
+38회
 
-* 장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
+일시 - 2023년 5월 16일(화), 18시30분-21시
+
+장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
 
 <div id="daumRoughmapContainer1692248495740" class="root_daum_roughmap root_daum_roughmap_landing" 
 style=";margin: auto;"></div>
@@ -22,9 +26,11 @@ style=";margin: auto;"></div>
 
 후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
 
-::: {.callout-note appearance="simple"}
+참석자 - [김진섭](https://github.com/jinseob2kim), [김진환](https://github.com/jhk0530), 문우영, 조호연, 안애리, 이창선, 조재형
 
-## 발표 지원 / 추천 받습니다 !
+발표 내용
 
-shinykorea 단톡 또는 **jinhwan@zarathu.com** 로 알려주세요
-:::
+이창선: DUI 인터페이스 소개
+
+김진섭: 23년 R&D 선정 후기(창업성장기술 디딤돌, NIPA 2023년 공개SW 기술확산 지원사업, 보건복지부 가상환자·가상병원 기반 의료기술개발사업)
+     

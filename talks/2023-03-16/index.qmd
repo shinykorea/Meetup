@@ -1,0 +1,15 @@
+---
+date: 2023-03-16
+draft: false
+toc: false
+---
+
+운영자 모임
+
+일시 - 2023년 3월 16일(수)
+
+장소 - 신촌
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김진환  
+
+내용: 2023년 Shiny Korea 활동계획 논의

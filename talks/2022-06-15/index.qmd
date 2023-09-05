@@ -1,0 +1,36 @@
+---
+date: 2022-06-15
+draft: false
+toc: false
+---
+
+36회
+
+일시 - 2022년 6월 15일(수), 19-21시
+
+장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
+
+<div id="daumRoughmapContainer1693880944783" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+  
+  <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+  
+  <script charset="UTF-8">
+  new daum.roughmap.Lander({
+    "timestamp" : "1693880944783",
+    "key" : "2g3u6",
+    "mapWidth" : "640",
+    "mapHeight" : "360"
+  }).render();
+</script>
+  
+후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 김철민, 조호연, 안애리
+
+발표 내용
+
+조호연: {golem} 소개 및 데모
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = '20220615 Shiny Korea meet-up {golem}.pdf'></iframe>
+
+김진섭: [R 대학원강의 후기- 성균관대학교 바이오헬스규제과학과](https://github.com/jinseob2kim/R-skku-biohrs) 

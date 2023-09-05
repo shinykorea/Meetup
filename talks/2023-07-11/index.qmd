@@ -1,0 +1,70 @@
+---
+date: 2023-07-11
+draft: false
+toc: false
+---
+
+40회
+
+일시 - 2023년 7월 11일(화), 18시30분-21시
+
+장소 - zoom 온라인 or [서울 강남구 테헤란로 128 성곡빌딩 3층](http://kko.to/_m187jEDYY)
+
+<div id="daumRoughmapContainer1692248495740" class="root_daum_roughmap root_daum_roughmap_landing" 
+style=";margin: auto;"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1692248495740",
+		"key" : "2fv7o",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/), 문우영
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), [문우영](https://github.com/bluetsys), 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선, [김영호](https://github.com/thisis05)
+
+발표 내용
+
+문우영: SEO란 무엇인가? 왜 적용을 해야 하는가~
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'SEO.pdf'></iframe>
+
+김진섭: NEJM, Lancet, JAMA 저널 통계지원 후기
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'https://jinseob2kim.github.io/lecture-general/yonsei_conf/'></iframe>
+      
+---
+
+SEO 추가링크: 
+
+[The Open Graph protocol]
+https://ogp.me/
+
+[지연로딩]
+https://www.coupang.com/np/search?q=%EC%84%A0%ED%92%8D%EA%B8%B0&channel=recent
+
+[동적 로딩]
+https://page.stibee.com/archives/137513
+
+[HTML 비교 및 URL 작성]
+https://newso.co.kr/2023/07/06/1635412.html
+https://newso.co.kr/2023/06/29/1622853.html
+
+[페이지별작업]
+https://developers.google.com/search/docs/appearance?hl=ko
+
+[구조화된 데이터]
+https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
+https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=ko
+https://schema.org/
+https://schema.org/Organization
+
+[온라인 도구]
+https://webcode.tools/generators/structured-data
+https://technicalseo.com/tools/
+
