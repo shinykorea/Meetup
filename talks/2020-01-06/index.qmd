@@ -1,0 +1,40 @@
+---
+date: 2020-01-06
+draft: false
+toc: false
+---
+
+12회
+
+일시 - 2020년 1월 6일(월), 19시-21시 00분 
+
+장소 - 공간더하기 (강남역 11번 출구)
+
+<div id="daumRoughmapContainer1693878984951" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1693878984951",
+		"key" : "2g3ta",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026)
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [김진환](https://github.com/jhk0530), [신현석](https://github.com/shinhseok), [임동조](https://github.com/LDJWJ), [최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026) 
+
+발표 내용:
+    
+이진호: [shiny 에서 PostgreSQL 활용 방법(2)](https://github.com/jinholeetopology/R_shiny)
+    
+김진섭: [RSelenium 활용팁](https://jinseob2kim.github.io/LectureRpackage/RSelenium)
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'https://jinseob2kim.github.io/LectureRpackage/RSelenium'></iframe>
+
+김진환: [Javascript 라이브러리를 shiny에 wrapper 하기](https://github.com/jhk0530/shinyRoughJSbasic/)
+    
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'shinyroughjs.pdf'></iframe>

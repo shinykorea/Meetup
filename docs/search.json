@@ -172,7 +172,7 @@
     "href": "previous.html",
     "title": "shinykorea",
     "section": "",
-    "text": "Jul 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Jan 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNov 25, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 26, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/2019-01-24/index.html",
@@ -250,5 +250,40 @@
     "title": "shinykorea",
     "section": "",
     "text": "7회\n일시 - 2019년 7월 30일(화), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이희재, 이상열, 탁온식, 김병건, 이진호, 이재화\n발표 내용\n이희재: 사회인 야구 데이터로 나의 지표 만들기"
+  },
+  {
+    "objectID": "talks/2019-08-27/index.html",
+    "href": "talks/2019-08-27/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "8회\n일시 - 2019년 8월 27일(화), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩, 탁온식\n참석자 - 강동훈, 김진섭, 이상열, 신현석, 탁온식, 이진호, 임동조\n발표 내용\n강동훈: GloVe 소개\n탁온식: CSS로 더 디테일하게 Shiny 꾸미기 기초\n김진섭: ShinyApps 에 로그인 기능 넣기"
+  },
+  {
+    "objectID": "talks/2019-09-26/index.html",
+    "href": "talks/2019-09-26/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "9회\n일시 - 2019년 8월 27일(화), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩, 탁온식\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 탁온식, 이창선, 이진호, 임재화, 임동조\n발표 내용\n이재화:\n코딩없는 데이터수집 소개\n\n\n\n\n\nR Shiny Youtube 제작 후기\n\n\n이상열: ggpubr 소개"
+  },
+  {
+    "objectID": "talks/2019-10-31/index.html",
+    "href": "talks/2019-10-31/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "10회\n일시 - 2019년 10월 31일(목), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 김진섭, 나영준, 이창선, 이진호\n발표 내용: RUCK 2019 후기\n강동훈: 재무제표 시각화\n김진섭: From ShinyApps to CRAN\n\n\n나영준: 스마트하게 젖소 키우기 with Shiny (부제: 목마른 놈이 우물 판다)"
+  },
+  {
+    "objectID": "talks/2019-11-25/index.html",
+    "href": "talks/2019-11-25/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "11회\n일시 - 2019년 11월 25일(월), 19시-21시 00분\n장소 - 공간더하기 (강남역 11번 출구)\n\n\n\n\n\n후원 - 차라투(주), 탁온식\n참석자 - 강동훈, 김병건, 김진섭, 나영준, 이창선, 이진호, 김진환, 신현석\n발표 내용\n이진호: shiny 에서 PostgreSQL 활용 방법(1)\n이창선: 스마트 경영 시스템 소프트웨어\n김병건: 서울시 빅데이터캠퍼스 2019하반기 공모전 응모작 / ‘비영리 단체를 위한 최적의 모임 & 행사 위치 찾기’\n나영준: shinydashboard css 다루기"
+  },
+  {
+    "objectID": "talks/2020-01-06/index.html",
+    "href": "talks/2020-01-06/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "12회\n일시 - 2020년 1월 6일(월), 19시-21시 00분\n장소 - 공간더하기 (강남역 11번 출구)\n\n\n\n\n\n후원 - 차라투(주), 탁온식\n참석자 - 김진섭, 이창선, 이진호, 김진환, 신현석, 임동조, 최재성, 탁온식\n발표 내용:\n이진호: shiny 에서 PostgreSQL 활용 방법(2)\n김진섭: RSelenium 활용팁\n\n\n김진환: Javascript 라이브러리를 shiny에 wrapper 하기"
   }
 ]
