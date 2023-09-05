@@ -1,0 +1,34 @@
+---
+date: 2021-11-24
+draft: false
+toc: false
+---
+
+32회
+
+일시 - 2021년 11월 24일(화), 19-21시
+
+장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
+
+<div id="daumRoughmapContainer1693880944783" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+  
+  <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+  
+  <script charset="UTF-8">
+  new daum.roughmap.Lander({
+    "timestamp" : "1693880944783",
+    "key" : "2g3u6",
+    "mapWidth" : "640",
+    "mapHeight" : "360"
+  }).render();
+</script>
+  
+  후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa),  옥성욱, 문우영, [김가경](https://github.com/irobii), 장성호, 이창선, 옥성욱, 김진환, 배채겸
+
+발표 내용
+
+한‧중‧일 공개SW 협력 프로젝트 운영 논의
+
+이창선 : R  샤이니 기반 제조업 융합솔루션 개발과 활용
