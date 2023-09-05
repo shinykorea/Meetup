@@ -1,0 +1,38 @@
+---
+date: 2020-02-05
+draft: false
+toc: false
+---
+
+13회
+
+일시 - 2020년 2월 5일(수), 19시-21시 00분 
+
+장소 - 토즈 역삼점 (역삼역 7번 출구)
+
+<div id="daumRoughmapContainer1693880417396" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1693880417396",
+		"key" : "2g3tu",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026)
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea),[최재성](https://github.com/dhddldid), [탁온식](https://github.com/takos1026), [나영준](https://github.com/YoungjunNa), [김권현](https://github.com/kwhkim), [김가경](https://github.com/irobii) 
+
+발표 내용
+
+탁온식: 창업지원사업  
+
+이창선: 스마트 샤이니 플랫폼 사업제안
+
+[![](https://img.youtube.com/vi/vD3g3cufkEI/0.jpg)](https://www.youtube.com/watch?v=vD3g3cufkEI)
+
+나영준: LEGO 시리즈별 색상 시각화

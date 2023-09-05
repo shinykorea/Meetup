@@ -1,0 +1,38 @@
+---
+date: 2020-05-22
+draft: false
+toc: false
+---
+
+15회
+
+일시 - 2020년 5월 22일(금), 19-21시
+
+장소 - zoom 온라인 or [강남 저스트코타워](https://www.justcoglobal.com/kr/locations/justco-tower) 13층 공개SW개발자센터
+
+<div id="daumRoughmapContainer1693880944783" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1693880944783",
+		"key" : "2g3u6",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+후원 - [차라투(주)](https://www.zarathu.com/), [탁온식](https://github.com/takos1026), [코스랩](https://www.oss.kr/notice/show/6393687b-87fd-4a2c-b2c1-2ff40a21fc8a) 
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [이창선](https://github.com/csleekorea), [이진호](https://github.com/jinholeetopology), [신현석](https://github.com/shinhseok), [최재성](https://github.com/dhddldid), [김가경](https://github.com/irobii), [나영준](https://github.com/YoungjunNa), [김진환](https://github.com/jhk0530) 
+
+발표 내용
+
+이창선: "R 샤이니" 페이스북 그룹 - [링크](https://www.facebook.com/groups/850457028783173)
+
+김진환: CRAN 배포 후기
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'shinycyjs.pdf'></iframe>
+    
+  
