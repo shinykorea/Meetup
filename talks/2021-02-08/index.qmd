@@ -1,0 +1,36 @@
+---
+date: 2021-02-08
+draft: false
+toc: false
+---
+
+23회
+
+일시 - 2021년 2월 8일(월), 19-21시
+
+장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+
+<div id="daumRoughmapContainer1693881300180" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1693881300180",
+		"key" : "2g3uc",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+후원 - [차라투(주)](https://www.zarathu.com/)
+
+참석자 - [김진섭](https://github.com/jinseob2kim), [김진환](https://github.com/jhk0530),  [정이태](https://github.com/tteon), [이준혁](https://github.com/Poohj), [고희주](https://github.com/Heejoo-Ko), [김가경](https://github.com/irobii), [김권현](https://github.com/kwhkim), 옥성욱, [이상열](https://github.com/syleeie2310), 최호선
+
+발표 내용
+
+김진섭: 서울시 코로나 수리모델링
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'https://jinseob2kim.github.io/covidmodel-seoul/modelling/#1'></iframe>
+
+이준혁: 커머스 환경에서 데이터 분석하기
