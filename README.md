@@ -12,3 +12,8 @@ Shinykorea Meetup
 
 shinykorea 단톡 또는 **jinhwan@zarathu.com** 로 알려주세요
 
+### Contributors
+
+<a href="https://github.com/shinykorea/Meetup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shinykorea/Meetup" />
+</a>
