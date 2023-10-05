@@ -1,0 +1,506 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "shinykorea ",
+    "section": "",
+    "text": "shinykorea \n\n📅 다음모임\n\n\n\n\n\n\n\n2023년 10월 17일 화요일. 오후 6시반 ~ 9시\nzoom (온라인) or Garage 강남점 3F (오프라인)\n\n\n\n\n\n\n\n\n\n\n\n\n🤝 후원\nopenup 커뮤니티 지원사업, 차라투, 문우영"
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "shinykorea",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "shinykorea",
+    "section": "",
+    "text": "When you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#다음모임",
+    "href": "index.html#다음모임",
+    "title": "shinykorea",
+    "section": "",
+    "text": "2023년 10월 17일 화요일. 오후 6시반 ~ 9시"
+  },
+  {
+    "objectID": "index.html#후원",
+    "href": "index.html#후원",
+    "title": "shinykorea",
+    "section": "",
+    "text": "openup 커뮤니티 지원사업, 차라투, 문우영"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinykorea는 shiny를 사용하거나 관심 있는 사람들이 모여, 뉴스와 정보를 공유하며 그 과정에서 새로운 기회들을 만들어가는 커뮤니티입니다.\nshiny를 주로 다루지만, R, Quarto, Markdown, 통계, 데이터 분석, 대시보드, 사이드 프로젝트 등의 다양한 주제를 다루며, 입문자부터 전문가까지 다양한 구성원들로 구성되어 있습니다."
+  },
+  {
+    "objectID": "about.html#correction",
+    "href": "about.html#correction",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "1. Correction",
+    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
+  },
+  {
+    "objectID": "about.html#warning",
+    "href": "about.html#warning",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "2. Warning",
+    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
+  },
+  {
+    "objectID": "about.html#temporary-ban",
+    "href": "about.html#temporary-ban",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "3. Temporary Ban",
+    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
+  },
+  {
+    "objectID": "about.html#permanent-ban",
+    "href": "about.html#permanent-ban",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "4. Permanent Ban",
+    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "about.html#서약",
+    "href": "about.html#서약",
+    "title": "shinykorea",
+    "section": "서약",
+    "text": "서약\n우리는 구성원, 기여자 및 리더로서 커뮤니티에 참여하여 연령, 신체 크기, 눈에 보이거나 보이지 않는 장애, 민족성, 성별, 성 정체성과 표현, 경력, 학력, 사회 경제적 지위, 국적, 외모, 인종, 카스트 제도, 피부색, 종교 또는 성적 정체성과 성적 성향에 관계없이 모든 사람을 차별하지 않을 것을 서약한다.\n우리는 개방적이고 친근하며 다양하고 포용적이며 건강한 커뮤니티에 기여하는 방식으로 행동하고 상호작용할 것을 서약한다."
+  },
+  {
+    "objectID": "about.html#표준",
+    "href": "about.html#표준",
+    "title": "shinykorea",
+    "section": "표준",
+    "text": "표준\n커뮤니티의 긍정적인 환경을 위해 기여자가 해야 할 행동은 다음과 같다:\n\n다른 사람들에 대한 친절과 공감 표현\n서로 다른 의견 및 관점, 경험에 대한 존중\n건설적인 피드백을 제공 및 열린 마음으로 수락\n책임을 받아들이고 실수로 인해 영향을 받은 사람들에게 사과하며 경험을 통해 배움\n개인뿐만 아닌 전체 커뮤니티를 위한 최선의 방법에 집중\n\n하지말아야 할 행동은 다음과 같다:\n\n성적인 언어와 이미지 사용, 성적 관심이나 어떤 종류의 접근\n소모적인 논쟁, 모욕적 또는 비하하는 댓글과 개인적 또는 정치적인 공격\n공개적이거나 개인적인 괴롭힘\n동의없는 집주소 또는 이메일 주소 등의 개인 정보의 공개\n부적절한 것으로 간주될 수 있는 다른 행위"
+  },
+  {
+    "objectID": "about.html#집행-책임",
+    "href": "about.html#집행-책임",
+    "title": "shinykorea",
+    "section": "집행 책임",
+    "text": "집행 책임\n커뮤니티 리더는 허용되는 행동의 기준을 명확히 하고 집행할 책임이 있으며 부적절하다고 여겨지는 모든 행동, 위협, 공격 또는 피해에 대해 적절하고 공정한 행동을 취한다.\n프로젝트 유지자는 이 행동 강령을 따르지 않은 댓글, 커밋, 코드, 위키 편집, 이슈와 그 외 다른 기여를 삭제, 수정 또는 거부할 권리와 책임이 있다. 또한, 부적당하거나 험악하거나 공격적이거나 해롭다고 생각하는 다른 행동을 한 기여자를 일시적 또는 영구적으로 퇴장시킬 수 있다.\n커뮤니티 리더는 이 행동 강령을 따르지 않는 댓글, 커밋, 코드, 위키 편집, 이슈와 그 외 다른 기여를 삭제, 수정 또는 거부할 권리와 책임이 있으며, 적절한 경우 중재적 의사결정에 대한 이유를 전달할 것이다."
+  },
+  {
+    "objectID": "about.html#범위",
+    "href": "about.html#범위",
+    "title": "shinykorea",
+    "section": "범위",
+    "text": "범위\n이 행동 강령은 개인이 공개 영역에서 커뮤니티를 공식적으로 대표할 때를 포함하여 모든 커뮤니티 영역에 적용된다. 커뮤니티 대표의 예로 공식 이메일 주소 사용, 공식 소셜 미디어 계정을 통한 게시, 온/오프라인 이벤트에서 임명된 대표자의 활동이 있다."
+  },
+  {
+    "objectID": "about.html#집행",
+    "href": "about.html#집행",
+    "title": "shinykorea",
+    "section": "집행",
+    "text": "집행\n모욕적이거나 괴롭힘 또는 그 외 하지말아야 할 행동을 발견하면 [연락 방법 입력]을 통해 집행 책임이 있는 커뮤니티 리더에게 보고한다. 모든 불만사항은 신속하고 공정하게 검토되고 조사될 것이다.\n커뮤니티 리더는 사건의 보고자의 사생활과 안전을 존중할 의무가 있다."
+  },
+  {
+    "objectID": "about.html#집행-지침",
+    "href": "about.html#집행-지침",
+    "title": "shinykorea",
+    "section": "집행 지침",
+    "text": "집행 지침\n커뮤니티 리더는 행동 강령 위반으로 간주되는 행동에 대한 결과를 결정할 때, 다음의 커뮤니티 영향 지침을 준수한다:\n\n1. 정정\n커뮤니티 영향: 커뮤니티 내 부적절한 언어 사용이나 비전문적인 행동 또는 불쾌함을 주는 행동.\n결과: 커뮤니티 리더가 별도로 위반에 대한 명확성과 부적절함에 대한 이유를 설명하고 서면 경고. 공개 사과를 요청할 수 있다.\n\n\n2. 경고\n커뮤니티 영향: 단일 사고 또는 연속된 행동 위반.\n결과: 지속적인 행동에 대한 결과에 대해 경고. 특정 기간동안 행동 강령을 시행하는 사람들과의 원치 않는 상호작용을 포함한 관련된 사람들과의 상호작용 금지. 소셜 미디어와 같은 외부 채널뿐만 아닌 커뮤니티 공간에서의 상호작용도 금지된다. 이 조항을 위반하면 일시적 혹은 영구적으로 제재로 이어질 수 있다.\n\n\n3. 일시적인 제재\n커뮤니티 영향: 지속적으로 부적절한 행동을 포함한 심각한 커뮤니티 기준 위반.\n결과: 특정 기간동안 커뮤니티와의 어떠한 종류의 상호작용이나 공개적 소통이 일시적 제재. 이 기간동안 행동 강령을 시행하는 사람들과의 원치 않는 상호작용을 포함한 관련된 사람들과의 상호작용 금지. 소셜 미디어와 같은 외부 채널뿐만 아닌 커뮤니티 공간에서의 상호작용도 금지된다. 이 조항을 위반하면 일시적 혹은 영구적으로 제재로 이어질 수 있다.\n\n\n4. 영구 제재\n커뮤니티 영향: 지속적인 부적절한 행동, 개인적인 괴롭힘 또는 개인의 계급에 대한 공격이나 폄하를 포함한 커뮤니티 표준 위반 패턴을 보임.\n결과: 커뮤니티와의 모든 종류의 공개적 교류를 영구적으로 제재."
+  },
+  {
+    "objectID": "about.html#참고",
+    "href": "about.html#참고",
+    "title": "shinykorea",
+    "section": "참고",
+    "text": "참고\n이 행동 강령은 기여자 규약 의 2.1 버전을 변형하였습니다. 그 내용은 https://www.contributor-covenant.org/ko/version/2/1/code-of-conduct.html 에서 확인할 수 있습니다.\n커뮤니티 영향 지침은 Mozilla’s code of conduct enforcement ladder 에서 영감을 얻었습니다.\n이 행동 강령에 관련한 일반적인 질문에 대한 대답은 https://www.contributor-covenant.org/faq를 참고할 수 있습니다. 번역본은 https://www.contributor-covenant.org/translations에서 볼 수 있습니다."
+  },
+  {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinydashboard와 shinyauthr를 이용한 로그인기능 구현 예제코드입니다.\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#shinydashboard-shinyauthr",
+    "href": "showcase.html#shinydashboard-shinyauthr",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinydashboard와 shinyauthr를 이용한 로그인기능 구현 예제코드입니다.\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#financial-statement-information-visualization",
+    "href": "showcase.html#financial-statement-information-visualization",
+    "title": "shinykorea",
+    "section": "financial statement information visualization",
+    "text": "financial statement information visualization\n\n재무정보 시각화\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#fresh_example",
+    "href": "showcase.html#fresh_example",
+    "title": "shinykorea",
+    "section": "fresh_example",
+    "text": "fresh_example\n\nfresh package를 이용해 shinydashboard의 css를 손쉽게 만지는 예제입니다.\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#covid-대시보드-개발",
+    "href": "showcase.html#covid-대시보드-개발",
+    "title": "shinykorea",
+    "section": "covid 대시보드 개발",
+    "text": "covid 대시보드 개발\n\nG-CoMS 병상운용현황\n\ngithub"
+  },
+  {
+    "objectID": "showcase.html#corona-triage-covid-19-중증도-분류",
+    "href": "showcase.html#corona-triage-covid-19-중증도-분류",
+    "title": "shinykorea",
+    "section": "corona-triage: Covid-19 중증도 분류",
+    "text": "corona-triage: Covid-19 중증도 분류\n\nCovid-19 확진자를 중증도에 따라 분류, 의료자원을 고려한 치료 전략에 도움을 준다.\n\ngithub"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "previous.html",
+    "href": "previous.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "Aug 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJul 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 15, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNov 24, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 7, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJul 13, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 8, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 8, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 26, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 28, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 26, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 22, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNov 25, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSep 26, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMay 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/2019-01-24/index.html",
+    "href": "talks/2019-01-24/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "1회\n일시 - 2019년 1월 24일(목), 19시-21시 30분\n장소 - 강남 토즈타워점\n\n\n\n\n\n\n\n\n\n후원 - Anpanman\n참석자 - 강동훈, 김진섭, 나영준, 이상열\n발표 내용\n나영준: Shiny for animal science\n\n\n강동훈: 해상사고 조난자 수색구조를 위한 표류지점 예측 분석\n이상열: Shiny에서 rhandsontable 사용하기"
+  },
+  {
+    "objectID": "talks/2019-01-24/index.html#회",
+    "href": "talks/2019-01-24/index.html#회",
+    "title": "shinykorea",
+    "section": "",
+    "text": "일시 - 2019년 1월 24일(목), 19시-21시 30분\n장소 - 강남 토즈타워점\n후원 - Anpanman\n참석자 - 강동훈, 김진섭, 나영준, 이상열\n발표 내용\n나영준: Shiny for animal science\n\n\n강동훈: 해상사고 조난자 수색구조를 위한 표류지점 예측 분석\n이상열: Shiny에서 rhandsontable 사용하기"
+  },
+  {
+    "objectID": "talks/2019-02-27/index.html",
+    "href": "talks/2019-02-27/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "2회\n일시 - 2019년 2월 27일(수), 19시-21시 30분\n장소 - 강남 토즈타워점\n\n\n\n\n\n\n\n\n\n후원 - Anpanman\n회비 - 15000\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재\n발표 내용\n김진섭: From shinyapps to Rpackage\n\n\n이희재: Shiny Dashbooard 활용 예"
+  },
+  {
+    "objectID": "talks/2019-02-27/index.html#회",
+    "href": "talks/2019-02-27/index.html#회",
+    "title": "shinykorea",
+    "section": "",
+    "text": "일시 - 2019년 2월 27일(수), 19시-21시 30분\n장소 - 강남 토즈타워점\n후원 - Anpanman\n회비 - 15000\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 이희재\n발표 내용\n김진섭: From shinyapps to Rpackage\n\n\n이희재: Shiny Dashbooard 활용 예"
+  },
+  {
+    "objectID": "Report/230411/오픈업결과보고_230411.html",
+    "href": "Report/230411/오픈업결과보고_230411.html",
+    "title": "오픈업 커뮤니티지원 결과보고 4월",
+    "section": "",
+    "text": "37회 Shinykorea 정기밋업\n\n일시 - 2023년 4월 11일(화), 18시30분-21시\n장소 - zoom 온라인 or 토즈 삼성점\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n발표 내용:\n\n김철민: 3D GIS Visualization with shiny\n김진환: Creating Standalone Apps from Shiny with Electron\n\n\n\n모임 진행 사진(참석한 모든 인원의 나오는 사진 3장과 참석자 명단)\n\n\n참석자 - 김진섭, 나영준, 김철민, 김진환, 문우영, 손동욱, 김가연, 강동훈, 김영호, 조호연, 김경수\n\n\n첨부자료(회의 진행 하실 때 공유하신 자료 및 개발 진행 사진 3장)을 메일 부탁드립니다.\n\n김철민 -\n\n김진환"
+  },
+  {
+    "objectID": "Report/230411/오픈업결과보고_230411.html#회의-목적-내용",
+    "href": "Report/230411/오픈업결과보고_230411.html#회의-목적-내용",
+    "title": "오픈업 커뮤니티지원 결과보고 4월",
+    "section": "",
+    "text": "37회 Shinykorea 정기밋업\n\n일시 - 2023년 4월 11일(화), 18시30분-21시\n장소 - zoom 온라인 or 토즈 삼성점\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n발표 내용:\n\n김철민: 3D GIS Visualization with shiny\n김진환: Creating Standalone Apps from Shiny with Electron\n\n\n\n모임 진행 사진(참석한 모든 인원의 나오는 사진 3장과 참석자 명단)\n\n\n참석자 - 김진섭, 나영준, 김철민, 김진환, 문우영, 손동욱, 김가연, 강동훈, 김영호, 조호연, 김경수\n\n\n첨부자료(회의 진행 하실 때 공유하신 자료 및 개발 진행 사진 3장)을 메일 부탁드립니다.\n\n김철민 -\n\n김진환"
+  },
+  {
+    "objectID": "talks/2019-03-27/index.html",
+    "href": "talks/2019-03-27/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "3회\n일시 - 2019년 3월 27일(수), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석\n발표 내용\n강동훈: api in R - plumber 소개\n\n\n이상열: Shiny + Reticulate + Pyspark 소개"
+  },
+  {
+    "objectID": "talks/2019-04-30/index.html",
+    "href": "talks/2019-04-30/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "4회\n일시 - 2019년 3월 27일(수), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 이희재, 탁온식, 김병건\n발표 내용\n신현석: IPTV 환경에서 데이터 수집 & 대시보드 제작\n\n1st Shiny contest 관심 앱 소개\n\n김진섭: Impact Replays - Relive the CFL (Canadian Football League) Highlights and Play-by-Play\n나영준: The Pasture Potential Tool"
+  },
+  {
+    "objectID": "talks/2019-05-31/index.html",
+    "href": "talks/2019-05-31/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "5회\n일시 - 2019년 5월 31일(금), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 탁온식, 김병건, 이창선, 조재형\n발표 내용\n김진섭: Shiny 활용 의학연구지원 경험 공유 강동훈: 재무정보 시각화 나영준: Shiny app - 새로운 한우 육량등급 시뮬레이터 조재형: AEGIS - OHDSI 기반 공간역학연구 시각화"
+  },
+  {
+    "objectID": "talks/2019-06-20/index.html",
+    "href": "talks/2019-06-20/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "6회\n일시 - 2019년 6월 20일(목), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 탁온식, 김병건, 이창선, 이진호\n발표 내용\n탁온식: 더 나은 주거지역을 찾기 위한 shiny 앱\n이창선: AI auto-reporting"
+  },
+  {
+    "objectID": "talks/2019-07-30/index.html",
+    "href": "talks/2019-07-30/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "7회\n일시 - 2019년 7월 30일(화), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 강동훈, 김진섭, 나영준, 이희재, 이상열, 탁온식, 김병건, 이진호, 이재화\n발표 내용\n이희재: 사회인 야구 데이터로 나의 지표 만들기"
+  },
+  {
+    "objectID": "talks/2019-08-27/index.html",
+    "href": "talks/2019-08-27/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "8회\n일시 - 2019년 8월 27일(화), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩, 탁온식\n참석자 - 강동훈, 김진섭, 이상열, 신현석, 탁온식, 이진호, 임동조\n발표 내용\n강동훈: GloVe 소개\n탁온식: CSS로 더 디테일하게 Shiny 꾸미기 기초\n김진섭: ShinyApps 에 로그인 기능 넣기"
+  },
+  {
+    "objectID": "talks/2019-09-26/index.html",
+    "href": "talks/2019-09-26/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "9회\n일시 - 2019년 8월 27일(화), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩, 탁온식\n참석자 - 강동훈, 김진섭, 나영준, 이상열, 신현석, 탁온식, 이창선, 이진호, 임재화, 임동조\n발표 내용\n이재화:\n코딩없는 데이터수집 소개\n\n\n\n\n\nR Shiny Youtube 제작 후기\n\n\n이상열: ggpubr 소개"
+  },
+  {
+    "objectID": "talks/2019-10-31/index.html",
+    "href": "talks/2019-10-31/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "10회\n일시 - 2019년 10월 31일(목), 19시-21시 00분\n장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 김진섭, 나영준, 이창선, 이진호\n발표 내용: RUCK 2019 후기\n강동훈: 재무제표 시각화\n김진섭: From ShinyApps to CRAN\n\n\n나영준: 스마트하게 젖소 키우기 with Shiny (부제: 목마른 놈이 우물 판다)"
+  },
+  {
+    "objectID": "talks/2019-11-25/index.html",
+    "href": "talks/2019-11-25/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "11회\n일시 - 2019년 11월 25일(월), 19시-21시 00분\n장소 - 공간더하기 (강남역 11번 출구)\n\n\n\n\n\n후원 - 차라투(주), 탁온식\n참석자 - 강동훈, 김병건, 김진섭, 나영준, 이창선, 이진호, 김진환, 신현석\n발표 내용\n이진호: shiny 에서 PostgreSQL 활용 방법(1)\n이창선: 스마트 경영 시스템 소프트웨어\n김병건: 서울시 빅데이터캠퍼스 2019하반기 공모전 응모작 / ‘비영리 단체를 위한 최적의 모임 & 행사 위치 찾기’\n나영준: shinydashboard css 다루기"
+  },
+  {
+    "objectID": "talks/2020-01-06/index.html",
+    "href": "talks/2020-01-06/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "12회\n일시 - 2020년 1월 6일(월), 19시-21시 00분\n장소 - 공간더하기 (강남역 11번 출구)\n\n\n\n\n\n후원 - 차라투(주), 탁온식\n참석자 - 김진섭, 이창선, 이진호, 김진환, 신현석, 임동조, 최재성, 탁온식\n발표 내용:\n이진호: shiny 에서 PostgreSQL 활용 방법(2)\n김진섭: RSelenium 활용팁\n\n\n김진환: Javascript 라이브러리를 shiny에 wrapper 하기"
+  },
+  {
+    "objectID": "talks/2020-02-05/index.html",
+    "href": "talks/2020-02-05/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "13회\n일시 - 2020년 2월 5일(수), 19시-21시 00분\n장소 - 토즈 역삼점 (역삼역 7번 출구)\n\n\n\n\n\n후원 - 차라투(주), 탁온식\n참석자 - 김진섭, 이창선,최재성, 탁온식, 나영준, 김권현, 김가경\n발표 내용\n탁온식: 창업지원사업\n이창선: 스마트 샤이니 플랫폼 사업제안\n\n\n\n\n\n나영준: LEGO 시리즈별 색상 시각화"
+  },
+  {
+    "objectID": "talks/2020-04-24/index.html",
+    "href": "talks/2020-04-24/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "14회\n일시 - 2020년 4월 24일(금), 19-21시\n장소 - zoom 이용한 온라인 밋업 (Covid 19)\n후원 - 차라투(주), 탁온식, 코스랩\n참석자 - 김진섭, 이창선, 이진호, 신현석, 최재성, 김권현, 김가경, 나영준, 김진환\n발표 내용\n김진섭: TokyoR 81회 밋업 리뷰\n나영준:colorhunt - Hunt the color insight into the color palette."
+  },
+  {
+    "objectID": "talks/2020-05-22/index.html",
+    "href": "talks/2020-05-22/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "15회\n일시 - 2020년 5월 22일(금), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - 차라투(주), 탁온식, 코스랩\n참석자 - 김진섭, 이창선, 이진호, 신현석, 최재성, 김가경, 나영준, 김진환\n발표 내용\n이창선: “R 샤이니” 페이스북 그룹 - 링크\n김진환: CRAN 배포 후기"
+  },
+  {
+    "objectID": "talks/2020-06-26/index.html",
+    "href": "talks/2020-06-26/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "16회\n일시 - 2020년 6월 26일(금), 19-21시\n장소 - 장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주), 탁온식, 코스랩\n참석자 - 김진섭, 이창선, 신현석 최재성, 탁온식, 김권현, 김가경, 나영준, 김진환, 김가경, 이후선, 위하은, 강현욱, 김경수\n발표 내용\n신현석 : Shiny custom UI - Styling Shiny apps with Sass and Bootstrap 4\n김진섭: 올해 만들었던 Shiny앱 공유"
+  },
+  {
+    "objectID": "talks/2020-07-30/index.html",
+    "href": "talks/2020-07-30/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "17회\n일시 - 2020년 7월 30일(금), 19-21시\n장소 - 장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주), 탁온식, 코스랩\n참석자 - 김진섭, 이창선, 최재성, 탁온식, 김권현, 김가경, 나영준, 김진환, 김가경, 강현욱, 김철민\n발표 내용\n김권현: 데이터 테이블 소개\n나영준: reactable 소개"
+  },
+  {
+    "objectID": "talks/2020-08-28/index.html",
+    "href": "talks/2020-08-28/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "18회\n일시 - 2020년 8월 28일(금), 19-21시\n장소 - 장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주),코스랩\n참석자 - 김진섭, 이창선, 김가경, 나영준, 김진환, 김가경, 강현욱, 김철민, 최의용, Looni Park\n발표 내용\n김철민: 버스최적노선분석 공모전 내용 공유\n김진섭: 메타분석앱 개발 후기"
+  },
+  {
+    "objectID": "talks/2020-10-26/index.html",
+    "href": "talks/2020-10-26/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "20회\n일시 - 2020년 10월 26일(월), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주),코스랩\n참석자 - 김진섭, 이창선,나영준, 김진환, Looni Park, 최재성, 정경창, 김권현, 탁온식, 강현욱, 옥성욱\n발표 내용\n이창선: smartSolutionShiny Repository\n김진섭: docker r/shiny 이미지 소개"
+  },
+  {
+    "objectID": "talks/2020-09-28/index.html",
+    "href": "talks/2020-09-28/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "19회\n일시 - 2020년 9월 28일(월), 19-21시\n장소 - 장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주),코스랩\n참석자 - 김진섭, 이창선, 김가경, 나영준, 김진환, 김가경, Looni Park, 최재성, 박혜민, 최민철\n발표 내용\n이창선: 스마트 솔루션 템플릿 코딩\n나영준: reactable 튜토리얼"
+  },
+  {
+    "objectID": "talks/2020-11-30/index.html",
+    "href": "talks/2020-11-30/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "21회\n일시 - 2020년 11월 30일(월), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - 차라투(주), 코스랩\n참석자 - 김진섭, 이창선, 나영준, 김진환, Looni Park, 최재성, 정경창, 정이태, 김권현, 탁온식, 김철민\n발표 내용\n김진환: Codestates 수강생 데이터 분석\n\n\n탁온식: bs4Dash 패키지 소개\n정이태: review_ The Impact of DonaldTrump’s Tweets on Finanical Markets"
+  },
+  {
+    "objectID": "talks/2021-01-04/index.html",
+    "href": "talks/2021-01-04/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "22회\n일시 - 2021년 1월 4일(월), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주)\n참석자 - 김진섭, 이창선, 나영준, 김진환, 최재성, 탁온식, 김철민, 최의용, 이준혁, 김가경, 정이태, 이진호\n발표 내용\n김철민: SH 공사 협력 부동산데이터 분석\n\n\n최의용: Dacon: 공간정보 탐색적 데이터 분석 경진대회"
+  },
+  {
+    "objectID": "talks/2021-02-08/index.html",
+    "href": "talks/2021-02-08/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "23회\n일시 - 2021년 2월 8일(월), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주)\n참석자 - 김진섭, 김진환, 정이태, 이준혁, 고희주, 김가경, 김권현, 옥성욱, 이상열, 최호선\n발표 내용\n김진섭: 서울시 코로나 수리모델링\n\n\n이준혁: 커머스 환경에서 데이터 분석하기"
+  },
+  {
+    "objectID": "talks/2021-03-08/index.html",
+    "href": "talks/2021-03-08/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "24회\n일시 - 2021년 3월 8일(월), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주)\n참석자 - 김진섭, 이창선, 나영준, 김진환, 정이태, 탁온식, 이상열, 김권현, 옥성욱, 이동권, 문우영, 김경수, 홍지영, 김가경\n발표 내용\n나영준: 공공데이터활용 경진대회 및 예비창업패키지 후기\n이상열: Anomaly detection with R"
+  },
+  {
+    "objectID": "talks/2021-04-05/index.html",
+    "href": "talks/2021-04-05/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "25회\n일시 - 2021년 4월 5일(월), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주)\n참석자 - 김진섭, 나영준, 김진환, 정이태, 옥성욱, 문우영, 김가경, 김철민, 이준혁\n발표 내용\n김진섭: Shiny 환자데이터 입력웹 개발\n\n\n최호선: 기업 활동성 지수(Actitivy Index) 개발"
+  },
+  {
+    "objectID": "talks/2021-06-14/index.html",
+    "href": "talks/2021-06-14/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "27회\n일시 - 2021년 6월 14일(월), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주)\n참석자 - 김진섭, 나영준, 문우영, 박은혜, 이창선, 김권현, 이동권, 홍지영, 조재형, 정이태\n발표 내용\n문우영: Shiny 개발환경, html, 네이버/카카오 지도연결 팁"
+  },
+  {
+    "objectID": "talks/2021-05-04/index.html",
+    "href": "talks/2021-05-04/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "26회\n일시 - 2021년 5월 4일(화), 19-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - 차라투(주)\n참석자 - 김진섭, 나영준, 김진환, 정이태, 옥성욱, 문우영, 김가경, 김철민, 이준혁, 이현기, 오영진\n발표 내용\n이동권: shiny leaflet 활용한 의료 입지분석 플랫폼 개발기\n김철민: mapdedit 활용한 아파트 실거래가 분석"
+  },
+  {
+    "objectID": "talks/2021-07-13/index.html",
+    "href": "talks/2021-07-13/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "28회\n일시 - 2021년 7월 13일(화), 19-21시\n장소 - zoom 온라인\n후원 - 차라투(주)\n참석자 - 김진섭, 나영준, 문우영, 김가경, 이창선, 김가연, 임창우, 고현준, 김판준, 정영화, 송지현, 최호선\n발표 내용\n김진섭: 창업지원사업 도전기\n\n\n김권현: 파일 입출력(기초에서 응용까지: 텍스트 화일, 이진 화일, 그리고 압축 화일)"
+  },
+  {
+    "objectID": "talks/2021-08-17/index.html",
+    "href": "talks/2021-08-17/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "29회\n일시 - 2021년 8월 17일(화), 19-21시\n장소 - zoom 온라인\n후원 - 차라투(주)\n참석자 - 김진섭, 나영준, 옥성욱, 문우영, 김가경, 최호선, 조재형, 송지현, 김권현\n발표 내용\n송지현: 밸류투알파리서치랩 소개"
+  },
+  {
+    "objectID": "talks/2021-09-07/index.html",
+    "href": "talks/2021-09-07/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "30회\n일시 - 2021년 9월 7일(화), 19-21시\n장소 - zoom 온라인\n후원 - 차라투(주)\n참석자 - 김진섭, 나영준, 고현준, 송지현, 김가경, 최호선, 조재형, 송지현, 김권현, 이동권\n발표 내용\n문우영: GPS 이용한 대용량 데이터 처리\n고현준: ShinyProxy Google auth 후기"
+  },
+  {
+    "objectID": "talks/2021-10-13/index.html",
+    "href": "talks/2021-10-13/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "31회\n일시 - 2021년 10월 13일(화), 19-21시\n장소 - zoom 온라인\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준,, 김가경, 최호선, 장성호, 송지현, 이동권, 이창선\n발표 내용\n김진섭: Shiny 환자데이터 입력웹 개발"
+  },
+  {
+    "objectID": "talks/2021-11-24/index.html",
+    "href": "talks/2021-11-24/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "32회\n일시 - 2021년 11월 24일(화), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준, 옥성욱, 문우영, 김가경, 장성호, 이창선, 옥성욱, 김진환, 배채겸\n발표 내용\n한‧중‧일 공개SW 협력 프로젝트 운영 논의\n이창선 : R 샤이니 기반 제조업 융합솔루션 개발과 활용"
+  },
+  {
+    "objectID": "talks/2022-03-16/index.html",
+    "href": "talks/2022-03-16/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "33회\n일시 - 2022년 3월 16일(화), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준, 옥성욱, 문우영, 김가경, 최호선, 조재형, 송지현, 이창선\n발표 내용\n근황공유"
+  },
+  {
+    "objectID": "talks/2022-04-20/index.html",
+    "href": "talks/2022-04-20/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "34회\n일시 - 2022년 4월 20일(수), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준, 이창선, 김철민, 조호연, 탁온식\n발표 내용\n김진섭: 22년 지원사업 선정, 탈락 후기\n\n\n나영준: 메탄도 줄이고 자원낭비도 줄이는 한우 공공데이터"
+  },
+  {
+    "objectID": "talks/2022-05-18/index.html",
+    "href": "talks/2022-05-18/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "35회\n일시 - 2022년 5월 18일(수), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준, 김철민, 조호연, 안애리\n발표 내용\n김철민: Shiny 교과서 제작 후기"
+  },
+  {
+    "objectID": "talks/2022-06-15/index.html",
+    "href": "talks/2022-06-15/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "36회\n일시 - 2022년 6월 15일(수), 19-21시\n장소 - zoom 온라인 or 강남 저스트코타워 13층 공개SW개발자센터\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준, 김철민, 조호연, 안애리\n발표 내용\n조호연: {golem} 소개 및 데모\n\n\n김진섭: R 대학원강의 후기- 성균관대학교 바이오헬스규제과학과"
+  },
+  {
+    "objectID": "talks/2023-03-16/index.html",
+    "href": "talks/2023-03-16/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "운영자 모임\n일시 - 2023년 3월 16일(수)\n장소 - 신촌\n참석자 - 김진섭, 나영준, 김진환\n내용: 2023년 Shiny Korea 활동계획 논의"
+  },
+  {
+    "objectID": "talks/2023-04-11/index.html",
+    "href": "talks/2023-04-11/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "37회\n일시 - 2023년 4월 11일(화), 18시30분-21시\n장소 - zoom 온라인 or 토즈 삼성점\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주)\n참석자 - 김진섭, 나영준, 김철민, 김진환, 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 정우준\n발표 내용\n김철민: 3D GIS Visualization with shiny\n\n\n김진환: Creating Standalone Apps from Shiny with Electron"
+  },
+  {
+    "objectID": "talks/2023-06-13/index.html",
+    "href": "talks/2023-06-13/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "39회\n일시 - 2023년 6월 13일(화), 18시30분-21시\n장소 - zoom 온라인 or 서울 강남구 테헤란로 128 성곡빌딩 3층\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주), 문우영\n참석자 - 김진섭, 나영준, 김진환, 문우영, 김가경, 김영호, 김지수, 안애리, 탁온식\n발표 내용\n나영준: 데이터 기반 뉴스레터를 꾸준히 발행했을 때 생기는 일들 (https://newso.co.kr)\n\n김영호: Shiny 설문조사웹 개발 후기"
+  },
+  {
+    "objectID": "talks/2023-05-16/index.html",
+    "href": "talks/2023-05-16/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "38회\n일시 - 2023년 5월 16일(화), 18시30분-21시\n장소 - zoom 온라인 or 서울 강남구 테헤란로 128 성곡빌딩 3층\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주), 문우영\n참석자 - 김진섭, 김진환, 문우영, 조호연, 안애리, 이창선, 조재형\n발표 내용\n이창선: DUI 인터페이스 소개\n김진섭: 23년 R&D 선정 후기(창업성장기술 디딤돌, NIPA 2023년 공개SW 기술확산 지원사업, 보건복지부 가상환자·가상병원 기반 의료기술개발사업)"
+  },
+  {
+    "objectID": "talks/2023-07-11/index.html",
+    "href": "talks/2023-07-11/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "40회\n일시 - 2023년 7월 11일(화), 18시30분-21시\n장소 - zoom 온라인 or 서울 강남구 테헤란로 128 성곡빌딩 3층\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주), 문우영\n참석자 - 김진섭, 나영준, 김철민, 김진환, 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 이창선, 김영호\n발표 내용\n문우영: SEO란 무엇인가? 왜 적용을 해야 하는가~\n\n\n김진섭: NEJM, Lancet, JAMA 저널 통계지원 후기\n\n\n\nSEO 추가링크:\n[The Open Graph protocol] https://ogp.me/\n[지연로딩] https://www.coupang.com/np/search?q=%EC%84%A0%ED%92%8D%EA%B8%B0&channel=recent\n[동적 로딩] https://page.stibee.com/archives/137513\n[HTML 비교 및 URL 작성] https://newso.co.kr/2023/07/06/1635412.html https://newso.co.kr/2023/06/29/1622853.html\n[페이지별작업] https://developers.google.com/search/docs/appearance?hl=ko\n[구조화된 데이터] https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=ko https://schema.org/ https://schema.org/Organization\n[온라인 도구] https://webcode.tools/generators/structured-data https://technicalseo.com/tools/"
+  },
+  {
+    "objectID": "talks/2023-08-16/index.html",
+    "href": "talks/2023-08-16/index.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "41회\n일시 - 2023년 8월 16일(화), 18시30분-21시\n장소 - zoom 온라인 or 서울 강남구 테헤란로 128 성곡빌딩 3층\n\n\n\n\n\n후원 - Open UP 커뮤니티 지원 사업, 차라투(주), 문우영\n참석자 - 김진섭, 나영준, 김진환, 문우영, 이창선, 이진호, 이준혁, 김권현\n발표 내용\n김진환: webR과 github page를 활용한 서버리스 shiny application 구현\n\n\n\n\n이준혁: 경영현황 shiny 대시보드소개"
+  },
+  {
+    "objectID": "contributor.html",
+    "href": "contributor.html",
+    "title": "shinykorea",
+    "section": "",
+    "text": "shinykorea 기여자"
+  }
+]

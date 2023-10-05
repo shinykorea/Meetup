@@ -1,0 +1,23 @@
+---
+date: 2021-07-13
+draft: false
+toc: false
+---
+
+28회
+
+일시 - 2021년 7월 13일(화), 19-21시
+
+장소 - zoom 온라인
+
+후원 - [차라투(주)](https://www.zarathu.com/)
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), 문우영, [김가경](https://github.com/irobii), 이창선, 김가연, 임창우, 고현준, 김판준, 정영화, 송지현, 최호선
+
+발표 내용
+
+김진섭: 창업지원사업 도전기
+     
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'https://jinseob2kim.github.io/lecture-general/kstartup/#1'></iframe>
+
+김권현: [파일 입출력(기초에서 응용까지: 텍스트 화일, 이진 화일, 그리고 압축 화일)](https://github.com/kwhkim/R_ImportData)

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "shinykorea"
+  favicon: img/shiny.png
+  navbar:
+    right:
+      - text: 🌟 HOME
+        href: index.qmd
+      - text: 🖼 쇼케이스
+        href: showcase.qmd
+      - text: 📰 이전모임
+        href: previous.qmd
+      - text: 📝 커뮤니티 소개
+        href: about.qmd
+      - text: 🤝🏻 기여자
+        href: contributor.qmd
+      - icon: github
+        href: https://github.com/shinykorea/Meetup
+        target: _blank
+  page-footer: 'shinykorea. since 2019, All rights reserved | made with quarto with ❤️'
+			
+format:
+  html:
+    theme: simplex
+    css: css/styles.css
+    toc: true
+
+execute: 
+  freeze: true
+  

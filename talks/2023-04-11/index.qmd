@@ -1,0 +1,38 @@
+---
+date: 2023-04-11
+draft: false
+toc: false
+---
+
+37회
+
+일시 - 2023년 4월 11일(화), 18시30분-21시
+
+장소 - zoom 온라인 or [토즈 삼성점](https://m.place.naver.com/place/13442313/home?entry=ple)
+
+<div id="daumRoughmapContainer1693881300180" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1693881300180",
+		"key" : "2g3uc",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+후원 - [Open UP 커뮤니티 지원 사업](https://www.oss.kr/community_support_cm/show/2de472f0-6a84-4d5c-90f1-142231938d17?page=2), [차라투(주)](https://www.zarathu.com/)
+
+참석자 - [김진섭](https://github.com/jinseob2kim),  [나영준](https://github.com/YoungjunNa), [김철민](https://github.com/cmman75), [김진환](https://github.com/jhk0530), 문우영, 손동욱, 김가경, 김경수, 이동권, 조호연, 정우준
+
+발표 내용
+
+김철민: 3D GIS Visualization with shiny
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'rayshader.pdf'></iframe>
+
+김진환: [Creating Standalone Apps from Shiny with Electron](https://www-r--bloggers-com.cdn.ampproject.org/c/s/www.r-bloggers.com/2023/03/creating-standalone-apps-from-shiny-with-electron-2023-macos-m1/amp/)
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'shiny-exe.pdf'></iframe>

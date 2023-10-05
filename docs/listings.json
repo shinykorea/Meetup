@@ -1,0 +1,57 @@
+[
+  {
+    "listing": "/showcase.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/previous.html",
+    "items": [
+      "/talks/2023-08-16/index.html",
+      "/talks/2023-07-11/index.html",
+      "/talks/2023-06-13/index.html",
+      "/talks/2023-05-16/index.html",
+      "/talks/2023-04-11/index.html",
+      "/talks/2023-03-16/index.html",
+      "/talks/2022-06-15/index.html",
+      "/talks/2022-05-18/index.html",
+      "/talks/2022-04-20/index.html",
+      "/talks/2022-03-16/index.html",
+      "/talks/2021-11-24/index.html",
+      "/talks/2021-10-13/index.html",
+      "/talks/2021-09-07/index.html",
+      "/talks/2021-08-17/index.html",
+      "/talks/2021-07-13/index.html",
+      "/talks/2021-06-14/index.html",
+      "/talks/2021-05-04/index.html",
+      "/talks/2021-04-05/index.html",
+      "/talks/2021-03-08/index.html",
+      "/talks/2021-02-08/index.html",
+      "/talks/2021-01-04/index.html",
+      "/talks/2020-11-30/index.html",
+      "/talks/2020-10-26/index.html",
+      "/talks/2020-09-28/index.html",
+      "/talks/2020-08-28/index.html",
+      "/talks/2020-07-30/index.html",
+      "/talks/2020-06-26/index.html",
+      "/talks/2020-05-22/index.html",
+      "/talks/2020-04-24/index.html",
+      "/talks/2020-02-05/index.html",
+      "/talks/2020-01-06/index.html",
+      "/talks/2019-11-25/index.html",
+      "/talks/2019-10-31/index.html",
+      "/talks/2019-09-26/index.html",
+      "/talks/2019-08-27/index.html",
+      "/talks/2019-07-30/index.html",
+      "/talks/2019-06-20/index.html",
+      "/talks/2019-05-31/index.html",
+      "/talks/2019-04-30/index.html",
+      "/talks/2019-03-27/index.html",
+      "/talks/2019-02-27/index.html",
+      "/talks/2019-01-24/index.html"
+    ]
+  }
+]

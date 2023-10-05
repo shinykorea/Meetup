@@ -1,0 +1,42 @@
+---
+date: 2019-06-20
+draft: false
+toc: false
+---
+
+6회
+
+일시 - 2019년 6월 20일(목), 19시-21시 00분 
+
+장소 - 서울특별시 강남구 테헤란로 311 아남타워 7층
+
+<div id="daumRoughmapContainer1692325472664" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1692325472664",
+		"key" : "2fvki",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+
+후원 - [차라투(주)](https://www.zarathu.com/), [코스랩](https://www.oss.kr/kosslab)
+
+참석자 - [강동훈](https://github.com/DonghoonGang), [김진섭](https://github.com/jinseob2kim), [나영준](https://github.com/YoungjunNa), [이상열](https://github.com/syleeie2310), [신현석](https://github.com/shinhseok), [탁온식](https://github.com/takos1026), [김병건](https://github.com/skysign), [이창선](https://github.com/csleekorea), 이진호
+
+발표 내용
+
+탁온식: [더 나은 주거지역을 찾기 위한 shiny 앱](https://github.com/takos1026/shiny_meetup_201906)
+
+이창선: [AI auto-reporting](https://github.com/csleekorea/AI-AutoReporting)
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'AI-AutoReporting.pdf'></iframe>
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'AI-AutoReporting (dev).pdf'></iframe>
+
+<iframe width = '100%' height ='500px' class = 'slide-deck' src = 'AI-AutoReporting (application).pdf'></iframe>
+
